@@ -1,0 +1,129 @@
+/*
+ SNHD - Database Schema
+
+ The health district does not guarantee the accuracy of the information reported on this database,
+ and disclaims liability for any errors.
+ We reserve the right to make changes to this data at any time without notice.
+
+ Date: 03/20/2015 08:57:38 AM
+*/
+
+SET NAMES utf8;
+SET FOREIGN_KEY_CHECKS = 0;
+
+-- ----------------------------
+--  Table structure for `restaurant_categories`
+-- ----------------------------
+CREATE TABLE IF NOT EXISTS `restaurant_categories` (
+  `category_id` int(11) NOT NULL AUTO_INCREMENT,
+  `category_name` varchar(30) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `sort_order` int(11) NOT NULL,
+  `active` enum('Y','N') COLLATE utf8_unicode_ci NOT NULL DEFAULT 'Y',
+  PRIMARY KEY (`category_id`),
+  KEY `sort_order` (`sort_order`),
+  KEY `active` (`active`)
+) ENGINE=InnoDB AUTO_INCREMENT=32 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+-- ----------------------------
+--  Table structure for `restaurant_cities`
+-- ----------------------------
+CREATE TABLE IF NOT EXISTS `restaurant_cities` (
+  `city_id` int(11) NOT NULL AUTO_INCREMENT,
+  `city_name` varchar(35) COLLATE utf8_unicode_ci DEFAULT NULL,
+  PRIMARY KEY (`city_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=26 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+-- ----------------------------
+--  Table structure for `restaurant_establishments`
+-- ----------------------------
+CREATE TABLE IF NOT EXISTS `restaurant_establishments` (
+  `permit_number` char(9) COLLATE utf8_unicode_ci NOT NULL,
+  `facility_id` char(9) COLLATE utf8_unicode_ci NOT NULL,
+  `PE` int(11) NOT NULL,
+  `restaurant_name` varchar(75) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `location_name` varchar(50) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `search_text` varchar(300) COLLATE utf8_unicode_ci NOT NULL,
+  `address` varchar(35) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `latitude` decimal(12,8) DEFAULT NULL,
+  `longitude` decimal(12,8) DEFAULT NULL,
+  `city_id` int(11) NOT NULL DEFAULT '0',
+  `city_name` varchar(35) COLLATE utf8_unicode_ci NOT NULL,
+  `zip_code` varchar(10) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `nciaa` char(1) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `plan_review` char(4) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `record_status` char(2) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `current_grade` char(2) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `current_demerits` int(11) DEFAULT NULL,
+  `date_current` datetime DEFAULT NULL,
+  `previous_grade` char(1) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `date_previous` datetime DEFAULT NULL,
+  PRIMARY KEY (`permit_number`),
+  UNIQUE KEY `permit_number` (`permit_number`),
+  KEY `restaurant_name` (`restaurant_name`),
+  KEY `location_name` (`location_name`),
+  KEY `address` (`address`),
+  KEY `city_id` (`city_id`),
+  KEY `category_id` (`PE`),
+  KEY `zip_code` (`zip_code`),
+  KEY `record_status` (`record_status`),
+  KEY `current_grade` (`current_grade`),
+  KEY `current_demerits` (`current_demerits`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+-- ----------------------------
+--  Table structure for `restaurant_inspection_types`
+-- ----------------------------
+CREATE TABLE IF NOT EXISTS `restaurant_inspection_types` (
+  `inspection_type_id` varchar(3) COLLATE utf8_unicode_ci NOT NULL,
+  `inspection_type` varchar(40) COLLATE utf8_unicode_ci DEFAULT NULL,
+  PRIMARY KEY (`inspection_type_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+-- ----------------------------
+--  Table structure for `restaurant_inspection_violations`
+-- ----------------------------
+CREATE TABLE IF NOT EXISTS `restaurant_inspection_violations` (
+  `inspection_violation_id` int(11) NOT NULL AUTO_INCREMENT,
+  `inspection_id` int(11) NOT NULL DEFAULT '0',
+  `inspection_violation` int(11) NOT NULL DEFAULT '0',
+  PRIMARY KEY (`inspection_violation_id`),
+  KEY `inspection_id` (`inspection_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=560511 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+-- ----------------------------
+--  Table structure for `restaurant_inspections`
+-- ----------------------------
+CREATE TABLE IF NOT EXISTS `restaurant_inspections` (
+  `serial_number` char(9) NOT NULL,
+  `permit_number` char(9) NOT NULL,
+  `inspection_date` datetime NOT NULL DEFAULT '2010-01-01 00:00:00',
+  `inspection_time` datetime DEFAULT NULL,
+  `employee_id` char(9) NOT NULL,
+  `inspection_type_id` char(3) NOT NULL,
+  `inspection_demerits` int(11) DEFAULT NULL,
+  `inspection_grade` char(1) DEFAULT NULL,
+  `permit_status` varchar(2) DEFAULT NULL,
+  `inspection_result` varchar(50) DEFAULT NULL,
+  `violations` text,
+  `record_updated` datetime DEFAULT NULL,
+  PRIMARY KEY (`serial_number`),
+  KEY `permit_number` (`permit_number`),
+  KEY `inspection_date` (`inspection_date`),
+  KEY `inspection_grade` (`inspection_grade`),
+  KEY `inspection_type_id` (`inspection_type_id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+-- ----------------------------
+--  Table structure for `restaurant_violations`
+-- ----------------------------
+CREATE TABLE IF NOT EXISTS `restaurant_violations` (
+  `violation_id` int(11) NOT NULL AUTO_INCREMENT,
+  `violation_code` varchar(6) COLLATE utf8_unicode_ci DEFAULT NULL,
+  `violation_sort` float DEFAULT NULL,
+  `violation_demerits` int(11) DEFAULT NULL,
+  `violation_description` text COLLATE utf8_unicode_ci,
+  PRIMARY KEY (`violation_id`),
+  KEY `violation_sort` (`violation_sort`)
+) ENGINE=InnoDB AUTO_INCREMENT=311 DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
+
+SET FOREIGN_KEY_CHECKS = 1;
