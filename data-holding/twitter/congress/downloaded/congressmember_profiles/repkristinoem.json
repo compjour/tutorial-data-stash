@@ -1,0 +1,107 @@
+{
+  "id": 235251868,
+  "id_str": "235251868",
+  "name": "Rep. Kristi Noem",
+  "screen_name": "RepKristiNoem",
+  "location": "Castlewood & Washington",
+  "description": "I'm South Dakota's lone Member of the U.S. House of Representatives.  I live in Castlewood, SD with my husband Bryon and three kids Kassidy, Kennedy & Booker.",
+  "url": "http://t.co/fEyTr9Km3c",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/fEyTr9Km3c",
+          "expanded_url": "http://noem.house.gov",
+          "display_url": "noem.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 15728,
+  "friends_count": 338,
+  "listed_count": 826,
+  "created_at": "Fri Jan 07 18:44:34 +0000 2011",
+  "favourites_count": 53,
+  "utc_offset": -18000,
+  "time_zone": "Central Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 2519,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Jul 30 00:46:54 +0000 2015",
+    "id": 626554528029102081,
+    "id_str": "626554528029102081",
+    "text": "@DustinEvans1 ugh! I remember! Sadly, it's happened many many times to me since...",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 626553491389964288,
+    "in_reply_to_status_id_str": "626553491389964288",
+    "in_reply_to_user_id": 23109264,
+    "in_reply_to_user_id_str": "23109264",
+    "in_reply_to_screen_name": "DustinEvans1",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "DustinEvans1",
+          "name": "Dustin Evans",
+          "id": 23109264,
+          "id_str": "23109264",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "FFFFFF",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/255060649/noem_twitter2.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/255060649/noem_twitter2.jpg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/476487548760367105/5dSBfY0j_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/476487548760367105/5dSBfY0j_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/235251868/1366927157",
+  "profile_link_color": "80000B",
+  "profile_sidebar_border_color": "DEDEDE",
+  "profile_sidebar_fill_color": "F2F2F2",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

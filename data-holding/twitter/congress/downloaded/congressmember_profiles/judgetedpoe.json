@@ -1,0 +1,106 @@
+{
+  "id": 74198348,
+  "id_str": "74198348",
+  "name": "Ted Poe",
+  "screen_name": "JudgeTedPoe",
+  "location": "Humble, Texas",
+  "description": "Member of Congress, representing the second district of the great state of Texas",
+  "url": "http://t.co/oI5YymTdZ7",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/oI5YymTdZ7",
+          "expanded_url": "http://poe.house.gov",
+          "display_url": "poe.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 13698,
+  "friends_count": 539,
+  "listed_count": 1020,
+  "created_at": "Mon Sep 14 16:40:24 +0000 2009",
+  "favourites_count": 7,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 2767,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 16:17:58 +0000 2015",
+    "id": 627151226258497536,
+    "id_str": "627151226258497536",
+    "text": "@TheIranDeal  still waiting for an answer to my ? --Under the deal is the U.S. really excluded from inspections? Why would we agree to that?",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 3281853858,
+    "in_reply_to_user_id_str": "3281853858",
+    "in_reply_to_screen_name": "TheIranDeal",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "TheIranDeal",
+          "name": "The Iran Deal ",
+          "id": 3281853858,
+          "id_str": "3281853858",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C6E2EE",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/94937444/twitter_with_capitol.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/94937444/twitter_with_capitol.jpg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/459598371/TP_highres_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/459598371/TP_highres_normal.jpg",
+  "profile_link_color": "1F98C7",
+  "profile_sidebar_border_color": "C6E2EE",
+  "profile_sidebar_fill_color": "DAECF4",
+  "profile_text_color": "663B12",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

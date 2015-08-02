@@ -1,0 +1,116 @@
+{
+  "id": 17800215,
+  "id_str": "17800215",
+  "name": "Jason Chaffetz",
+  "screen_name": "jasoninthehouse",
+  "location": "Utah/Washington D.C.",
+  "description": "United States Congressman (UT-3). Chairman, Oversight & Government Reform. Tweets come from me, not my staff.",
+  "url": "http://t.co/V5xxDxy4AZ",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/V5xxDxy4AZ",
+          "expanded_url": "http://www.chaffetz.house.gov",
+          "display_url": "chaffetz.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 90014,
+  "friends_count": 19392,
+  "listed_count": 2675,
+  "created_at": "Tue Dec 02 04:59:53 +0000 2008",
+  "favourites_count": 2,
+  "utc_offset": -21600,
+  "time_zone": "Mountain Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 5924,
+  "lang": "en",
+  "status": {
+    "created_at": "Sat Aug 01 02:03:42 +0000 2015",
+    "id": 627298627237470209,
+    "id_str": "627298627237470209",
+    "text": "From Drinking, Drugs Scandal to Cyber Security Savior? http://t.co/c0KGhEsHy3 @gopoversight",
+    "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 9,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "GOPoversight",
+          "name": "GOP Oversight",
+          "id": 22508473,
+          "id_str": "22508473",
+          "indices": [
+            78,
+            91
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/c0KGhEsHy3",
+          "expanded_url": "http://abcnews.go.com/US/wild-drinking-drugs-scandal-cyber-security-savior/story?id=32763736",
+          "display_url": "abcnews.go.com/US/wild-drinki…",
+          "indices": [
+            55,
+            77
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "2513AD",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/752655005/4294a0705483dafa00851e69428835d4.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/752655005/4294a0705483dafa00851e69428835d4.jpeg",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3050744409/c096f91d5d0e4d471d6ce8eaad2da036_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3050744409/c096f91d5d0e4d471d6ce8eaad2da036_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/17800215/1414733404",
+  "profile_link_color": "0D0DA8",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "EFEFEF",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

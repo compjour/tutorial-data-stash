@@ -1,0 +1,244 @@
+{
+  "id": 168673083,
+  "id_str": "168673083",
+  "name": "David Scott",
+  "screen_name": "repdavidscott",
+  "location": "Georgia",
+  "description": "Representing Georgia's 13th Congressional District including Cobb, Douglas, Fayette, Fulton, Clayton, and Henry Counties.",
+  "url": "http://t.co/86ovd85h30",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/86ovd85h30",
+          "expanded_url": "http://www.davidscott.house.gov/",
+          "display_url": "davidscott.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 7899,
+  "friends_count": 1242,
+  "listed_count": 500,
+  "created_at": "Tue Jul 20 14:10:32 +0000 2010",
+  "favourites_count": 1462,
+  "utc_offset": -10800,
+  "time_zone": "Atlantic Time (Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 1943,
+  "lang": "en",
+  "status": {
+    "created_at": "Wed Jul 29 11:44:45 +0000 2015",
+    "id": 626357690500030464,
+    "id_str": "626357690500030464",
+    "text": "RT @LadyA08: @repdavidscott shared powerful words. Get in position and let God do his work. Prepare, organize, act &amp; be prayerful! http://t…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Tue Jul 28 22:47:32 +0000 2015",
+      "id": 626162098003935232,
+      "id_str": "626162098003935232",
+      "text": "@repdavidscott shared powerful words. Get in position and let God do his work. Prepare, organize, act &amp; be prayerful! http://t.co/7yfpCxKYvp",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 168673083,
+      "in_reply_to_user_id_str": "168673083",
+      "in_reply_to_screen_name": "repdavidscott",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "repdavidscott",
+            "name": "David Scott",
+            "id": 168673083,
+            "id_str": "168673083",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 626162089938137088,
+            "id_str": "626162089938137088",
+            "indices": [
+              122,
+              144
+            ],
+            "media_url": "http://pbs.twimg.com/media/CLCTGm6UMAAQvFu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CLCTGm6UMAAQvFu.jpg",
+            "url": "http://t.co/7yfpCxKYvp",
+            "display_url": "pic.twitter.com/7yfpCxKYvp",
+            "expanded_url": "http://twitter.com/LadyA08/status/626162098003935232/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 604,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 576,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 576,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "LadyA08",
+          "name": "Adrienne Annice",
+          "id": 17202417,
+          "id_str": "17202417",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "repdavidscott",
+          "name": "David Scott",
+          "id": 168673083,
+          "id_str": "168673083",
+          "indices": [
+            13,
+            27
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 626162089938137088,
+          "id_str": "626162089938137088",
+          "indices": [
+            143,
+            144
+          ],
+          "media_url": "http://pbs.twimg.com/media/CLCTGm6UMAAQvFu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLCTGm6UMAAQvFu.jpg",
+          "url": "http://t.co/7yfpCxKYvp",
+          "display_url": "pic.twitter.com/7yfpCxKYvp",
+          "expanded_url": "http://twitter.com/LadyA08/status/626162098003935232/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 604,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 576,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 576,
+              "h": 1024,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 626162098003935232,
+          "source_status_id_str": "626162098003935232",
+          "source_user_id": 17202417,
+          "source_user_id_str": "17202417"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "3B94D9",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/573166688906059776/Fp6ZFRFp.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/573166688906059776/Fp6ZFRFp.jpeg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/573169044091613185/bLPRS9I9_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/573169044091613185/bLPRS9I9_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/168673083/1425489882",
+  "profile_link_color": "89C9FA",
+  "profile_sidebar_border_color": "A8C7F7",
+  "profile_sidebar_fill_color": "C0DFEC",
+  "profile_text_color": "333333",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

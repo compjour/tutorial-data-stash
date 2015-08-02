@@ -1,0 +1,106 @@
+{
+  "id": 3018670151,
+  "id_str": "3018670151",
+  "name": "Pete Aguilar",
+  "screen_name": "RepPeteAguilar",
+  "location": "San Bernardino, CA",
+  "description": "Pete Aguilar represents CA’s 31st Congressional District. A former Mayor, Rep. Aguilar is committed to strengthening the Inland Empire’s middle class.",
+  "url": "http://t.co/o4deRoUnuK",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/o4deRoUnuK",
+          "expanded_url": "http://aguilar.house.gov/",
+          "display_url": "aguilar.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 714,
+  "friends_count": 106,
+  "listed_count": 57,
+  "created_at": "Wed Feb 04 21:01:23 +0000 2015",
+  "favourites_count": 0,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 188,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Jul 30 22:01:56 +0000 2015",
+    "id": 626875396676558848,
+    "id_str": "626875396676558848",
+    "text": "The time is long overdue to improve the roads, bridges and rails that millions of Americans rely on every day. http://t.co/qs1WCogCa8",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 6,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/qs1WCogCa8",
+          "expanded_url": "http://1.usa.gov/1SPGQWe",
+          "display_url": "1.usa.gov/1SPGQWe",
+          "indices": [
+            111,
+            133
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/563359439898415104/7m7GoHmq_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/563359439898415104/7m7GoHmq_normal.jpeg",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

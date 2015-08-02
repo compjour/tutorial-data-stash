@@ -1,0 +1,270 @@
+{
+  "id": 137794015,
+  "id_str": "137794015",
+  "name": "Rep. Ted Deutch",
+  "screen_name": "RepTedDeutch",
+  "location": "Boca Raton, FL",
+  "description": "Husband, Dad, Vegan, Congressman for Florida's 21st District on Judiciary & Foreign Affairs Committees. Sponsor of #DemocracyforAll Amendment",
+  "url": "http://t.co/iUVOHtXTju",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/iUVOHtXTju",
+          "expanded_url": "http://teddeutch.house.gov",
+          "display_url": "teddeutch.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 10591,
+  "friends_count": 1525,
+  "listed_count": 737,
+  "created_at": "Tue Apr 27 19:51:54 +0000 2010",
+  "favourites_count": 496,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 2205,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 17:53:17 +0000 2015",
+    "id": 627175212942032897,
+    "id_str": "627175212942032897",
+    "text": "RT @AllianceforEDA: Thank you @RepTedDeutch and @RosLehtinen for sponsoring #AnnasLaw in Congress! #NoMoreSoulsToED #eatingdisorders",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 30 19:57:01 +0000 2015",
+      "id": 626843961630392321,
+      "id_str": "626843961630392321",
+      "text": "Thank you @RepTedDeutch and @RosLehtinen for sponsoring #AnnasLaw in Congress! #NoMoreSoulsToED #eatingdisorders",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          26.72657734,
+          -80.08304639
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -80.08304639,
+          26.72657734
+        ]
+      },
+      "place": {
+        "id": "4de072969805ac41",
+        "url": "https://api.twitter.com/1.1/geo/id/4de072969805ac41.json",
+        "place_type": "city",
+        "name": "West Palm Beach",
+        "full_name": "West Palm Beach, FL",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -80.2006,
+                26.644671
+              ],
+              [
+                -80.044639,
+                26.644671
+              ],
+              [
+                -80.044639,
+                26.7991205
+              ],
+              [
+                -80.2006,
+                26.7991205
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "retweet_count": 7,
+      "favorite_count": 6,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "AnnasLaw",
+            "indices": [
+              56,
+              65
+            ]
+          },
+          {
+            "text": "NoMoreSoulsToED",
+            "indices": [
+              79,
+              95
+            ]
+          },
+          {
+            "text": "eatingdisorders",
+            "indices": [
+              96,
+              112
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "RepTedDeutch",
+            "name": "Rep. Ted Deutch",
+            "id": 137794015,
+            "id_str": "137794015",
+            "indices": [
+              10,
+              23
+            ]
+          },
+          {
+            "screen_name": "RosLehtinen",
+            "name": "Ileana Ros-Lehtinen",
+            "id": 14275291,
+            "id_str": "14275291",
+            "indices": [
+              28,
+              40
+            ]
+          }
+        ],
+        "urls": [
+
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "AnnasLaw",
+          "indices": [
+            76,
+            85
+          ]
+        },
+        {
+          "text": "NoMoreSoulsToED",
+          "indices": [
+            99,
+            115
+          ]
+        },
+        {
+          "text": "eatingdisorders",
+          "indices": [
+            116,
+            132
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "AllianceforEDA",
+          "name": "Alliance for EDA",
+          "id": 173955306,
+          "id_str": "173955306",
+          "indices": [
+            3,
+            18
+          ]
+        },
+        {
+          "screen_name": "RepTedDeutch",
+          "name": "Rep. Ted Deutch",
+          "id": 137794015,
+          "id_str": "137794015",
+          "indices": [
+            30,
+            43
+          ]
+        },
+        {
+          "screen_name": "RosLehtinen",
+          "name": "Ileana Ros-Lehtinen",
+          "id": 14275291,
+          "id_str": "14275291",
+          "indices": [
+            48,
+            60
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "022330",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/341534936/capitol-background.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/341534936/capitol-background.jpg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/610509955859369984/M8aN688b_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/610509955859369984/M8aN688b_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/137794015/1398789256",
+  "profile_link_color": "084B8A",
+  "profile_sidebar_border_color": "A8C7F7",
+  "profile_sidebar_fill_color": "C0DFEC",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

@@ -1,0 +1,120 @@
+{
+  "id": 2968007206,
+  "id_str": "2968007206",
+  "name": "Mark DeSaulnier",
+  "screen_name": "RepDeSaulnier",
+  "location": "Concord, CA ",
+  "description": "Honored to represent California's 11th Congressional District. Serving on the House Education and Workforce and Oversight and Government Reform Committees.",
+  "url": "https://t.co/pa3PJQ8V5B",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/pa3PJQ8V5B",
+          "expanded_url": "https://desaulnier.house.gov/",
+          "display_url": "desaulnier.house.gov",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 893,
+  "friends_count": 197,
+  "listed_count": 65,
+  "created_at": "Thu Jan 08 15:32:13 +0000 2015",
+  "favourites_count": 27,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 252,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Jul 30 20:12:34 +0000 2015",
+    "id": 626847874869952512,
+    "id_str": "626847874869952512",
+    "text": "Happy 50th Birthday #Medicare &amp; #Medicaid\nhttps://t.co/wrDdEj5Qrf",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 5,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Medicare",
+          "indices": [
+            20,
+            29
+          ]
+        },
+        {
+          "text": "Medicaid",
+          "indices": [
+            36,
+            45
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wrDdEj5Qrf",
+          "expanded_url": "https://amp.twimg.com/v/42b21aa9-bb6d-4ef5-a829-910371fefa80",
+          "display_url": "amp.twimg.com/v/42b21aa9-bb6…",
+          "indices": [
+            46,
+            69
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/623580702848778246/P-ObqZ-b_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/623580702848778246/P-ObqZ-b_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2968007206/1424926701",
+  "profile_link_color": "3B94D9",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

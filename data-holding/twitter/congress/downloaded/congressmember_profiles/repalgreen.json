@@ -1,0 +1,97 @@
+{
+  "id": 156333623,
+  "id_str": "156333623",
+  "name": "Congressman Al Green",
+  "screen_name": "RepAlGreen",
+  "location": "Houston, TX",
+  "description": "Proud to represent the Ninth Congressional District of Texas in the United States House of Representatives.",
+  "url": "http://t.co/oPgLvA0EBr",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/oPgLvA0EBr",
+          "expanded_url": "http://algreen.house.gov",
+          "display_url": "algreen.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 8651,
+  "friends_count": 176,
+  "listed_count": 565,
+  "created_at": "Wed Jun 16 17:20:23 +0000 2010",
+  "favourites_count": 0,
+  "utc_offset": -10800,
+  "time_zone": "Atlantic Time (Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 424,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Jul 30 20:02:20 +0000 2015",
+    "id": 626845298476908544,
+    "id_str": "626845298476908544",
+    "text": "Today is the 50th anniversary of Medicare and Medicaid: A proud legacy of helping American families and senior citizens.",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 8,
+    "favorite_count": 10,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "B2DFDA",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3316330449/984c689254421a8e1dbb6cc32391053f_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3316330449/984c689254421a8e1dbb6cc32391053f_normal.jpeg",
+  "profile_link_color": "6B7831",
+  "profile_sidebar_border_color": "EEEEEE",
+  "profile_sidebar_fill_color": "FFFFFF",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

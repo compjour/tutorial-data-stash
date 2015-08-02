@@ -1,0 +1,206 @@
+{
+  "id": 1089334250,
+  "id_str": "1089334250",
+  "name": "Rep. Andy Barr",
+  "screen_name": "RepAndyBarr",
+  "location": "Lexington, KY",
+  "description": "Honored to represent Kentucky's Sixth Congressional District.  Fighting to get Kentuckians back to work and restore fiscal responsibility to Washington",
+  "url": "http://t.co/XNnauaj5",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/XNnauaj5",
+          "expanded_url": "http://barr.house.gov",
+          "display_url": "barr.house.gov",
+          "indices": [
+            0,
+            20
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 5754,
+  "friends_count": 1160,
+  "listed_count": 326,
+  "created_at": "Mon Jan 14 15:29:49 +0000 2013",
+  "favourites_count": 111,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 1980,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 17:40:45 +0000 2015",
+    "id": 627172055952322561,
+    "id_str": "627172055952322561",
+    "text": "RT @AmericasPower: .@RepAndyBarr: #EPA's plan is an assault on low-income Americans, not just coal mining families. http://t.co/AZ0K9b9Hla …",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jul 31 17:37:00 +0000 2015",
+      "id": 627171115387912192,
+      "id_str": "627171115387912192",
+      "text": ".@RepAndyBarr: #EPA's plan is an assault on low-income Americans, not just coal mining families. http://t.co/AZ0K9b9Hla #CoalCaucus",
+      "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 5,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "EPA",
+            "indices": [
+              15,
+              19
+            ]
+          },
+          {
+            "text": "CoalCaucus",
+            "indices": [
+              120,
+              131
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "RepAndyBarr",
+            "name": "Rep. Andy Barr",
+            "id": 1089334250,
+            "id_str": "1089334250",
+            "indices": [
+              1,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/AZ0K9b9Hla",
+            "expanded_url": "http://bit.ly/1SQKRtm",
+            "display_url": "bit.ly/1SQKRtm",
+            "indices": [
+              97,
+              119
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "EPA",
+          "indices": [
+            34,
+            38
+          ]
+        },
+        {
+          "text": "CoalCaucus",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "AmericasPower",
+          "name": "America's Power",
+          "id": 17139736,
+          "id_str": "17139736",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "RepAndyBarr",
+          "name": "Rep. Andy Barr",
+          "id": 1089334250,
+          "id_str": "1089334250",
+          "indices": [
+            20,
+            32
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/AZ0K9b9Hla",
+          "expanded_url": "http://bit.ly/1SQKRtm",
+          "display_url": "bit.ly/1SQKRtm",
+          "indices": [
+            116,
+            138
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "050505",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438688574079115264/6BzY2umR.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438688574079115264/6BzY2umR.jpeg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3217250518/ebf6dbdcbb5124cf5ba49e987db668db_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3217250518/ebf6dbdcbb5124cf5ba49e987db668db_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1089334250/1392572667",
+  "profile_link_color": "93A644",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "E6F6F9",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

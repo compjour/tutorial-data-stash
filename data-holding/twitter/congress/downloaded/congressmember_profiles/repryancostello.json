@@ -1,0 +1,113 @@
+{
+  "id": 2953922782,
+  "id_str": "2953922782",
+  "name": "Rep. Ryan Costello ",
+  "screen_name": "RepRyanCostello",
+  "location": "PA-06 ",
+  "description": "U.S. Rep. for PA's 6th Congressional District including portions of Berks, Chester, Lebanon & Montgomery Counties. @Transport & @HouseVetAffairs Committees",
+  "url": "http://t.co/GHAVdkHUkJ",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/GHAVdkHUkJ",
+          "expanded_url": "http://www.costello.house.gov",
+          "display_url": "costello.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 1445,
+  "friends_count": 441,
+  "listed_count": 87,
+  "created_at": "Wed Dec 31 22:38:23 +0000 2014",
+  "favourites_count": 39,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 585,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 19:57:58 +0000 2015",
+    "id": 627206590714789888,
+    "id_str": "627206590714789888",
+    "text": "Glad to see this legislation signed into law! #HireMoreHeroes https://t.co/RuMIcPKWo9",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "HireMoreHeroes",
+          "indices": [
+            46,
+            61
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RuMIcPKWo9",
+          "expanded_url": "https://twitter.com/SpeakerBoehner/status/627205372437233664",
+          "display_url": "twitter.com/SpeakerBoehner…",
+          "indices": [
+            62,
+            85
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/601478674672721920/VHEwGHf1_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/601478674672721920/VHEwGHf1_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2953922782/1420495257",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

@@ -1,0 +1,124 @@
+{
+  "id": 1209417007,
+  "id_str": "1209417007",
+  "name": "Rep. Steve Scalise",
+  "screen_name": "SteveScalise",
+  "location": "Jefferson, LA",
+  "description": "Serving as House Majority Whip and representing LA-01. Follow me on Facebook: http://t.co/mIQZ2Jh9Gt and Instagram: http://t.co/5wuWc45xvq",
+  "url": "http://t.co/JrUbzHZc34",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/JrUbzHZc34",
+          "expanded_url": "http://www.majoritywhip.gov",
+          "display_url": "majoritywhip.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/mIQZ2Jh9Gt",
+          "expanded_url": "http://facebook.com/repstevescalise",
+          "display_url": "facebook.com/repstevescalise",
+          "indices": [
+            78,
+            100
+          ]
+        },
+        {
+          "url": "http://t.co/5wuWc45xvq",
+          "expanded_url": "http://instagram.com/stevescalise",
+          "display_url": "instagram.com/stevescalise",
+          "indices": [
+            116,
+            138
+          ]
+        }
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 12051,
+  "friends_count": 3294,
+  "listed_count": 498,
+  "created_at": "Fri Feb 22 18:10:47 +0000 2013",
+  "favourites_count": 123,
+  "utc_offset": -10800,
+  "time_zone": "Atlantic Time (Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 3393,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 21:31:18 +0000 2015",
+    "id": 627230077609242625,
+    "id_str": "627230077609242625",
+    "text": "Steve Gleason led the effort to champion this issue, helping us push this bill through Congress &amp; now into law. http://t.co/1d0HkXQkqA",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/1d0HkXQkqA",
+          "expanded_url": "http://1.usa.gov/1IuwkOr",
+          "display_url": "1.usa.gov/1IuwkOr",
+          "indices": [
+            116,
+            138
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/492426395742515200/LNEsOJVA.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/492426395742515200/LNEsOJVA.jpeg",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/613379377527549952/pBAI3r41_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/613379377527549952/pBAI3r41_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209417007/1422025043",
+  "profile_link_color": "B30000",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

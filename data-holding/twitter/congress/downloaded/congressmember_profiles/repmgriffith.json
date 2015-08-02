@@ -1,0 +1,119 @@
+{
+  "id": 234057152,
+  "id_str": "234057152",
+  "name": "Morgan Griffith",
+  "screen_name": "RepMGriffith",
+  "location": "9th District of Virginia",
+  "description": "Congressman Griffith represents the 9th District of Virginia in the U.S. House of Representatives.",
+  "url": "http://t.co/DxAGNTJ5Ux",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/DxAGNTJ5Ux",
+          "expanded_url": "http://morgangriffith.house.gov",
+          "display_url": "morgangriffith.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 8047,
+  "friends_count": 409,
+  "listed_count": 598,
+  "created_at": "Tue Jan 04 19:05:24 +0000 2011",
+  "favourites_count": 2,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 823,
+  "lang": "en",
+  "status": {
+    "created_at": "Tue Jul 28 17:50:39 +0000 2015",
+    "id": 626087385667796992,
+    "id_str": "626087385667796992",
+    "text": "VIDEO: Rep. Griffith Pushes for #Anthrax Exposure Answers @ #SubOversight  https://t.co/hsPbysTlfa",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Anthrax",
+          "indices": [
+            32,
+            40
+          ]
+        },
+        {
+          "text": "SubOversight",
+          "indices": [
+            60,
+            73
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hsPbysTlfa",
+          "expanded_url": "https://youtu.be/jrypYWvB-LE",
+          "display_url": "youtu.be/jrypYWvB-LE",
+          "indices": [
+            75,
+            98
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/245716133/Twitter_Background_Expanded.png",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/245716133/Twitter_Background_Expanded.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1244240509/HMG2_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1244240509/HMG2_normal.jpg",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

@@ -1,0 +1,137 @@
+{
+  "id": 2966205003,
+  "id_str": "2966205003",
+  "name": "Rep. Mark Walker",
+  "screen_name": "RepMarkWalker",
+  "location": "",
+  "description": "Member of the U.S. Congress - Representing the 6th District of North Carolina",
+  "url": "http://t.co/j5ZUboXhKw",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/j5ZUboXhKw",
+          "expanded_url": "http://walker.house.gov",
+          "display_url": "walker.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 1624,
+  "friends_count": 1067,
+  "listed_count": 82,
+  "created_at": "Wed Jan 07 16:20:28 +0000 2015",
+  "favourites_count": 409,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 486,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Jul 30 13:11:33 +0000 2015",
+    "id": 626741923395579904,
+    "id_str": "626741923395579904",
+    "text": "Officers and leaders in NC's national guard. Great people serving our country. http://t.co/oiGGBr8lhm",
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 626741923294932992,
+          "id_str": "626741923294932992",
+          "indices": [
+            79,
+            101
+          ],
+          "media_url": "http://pbs.twimg.com/media/CLKidWfW8AAPp7y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLKidWfW8AAPp7y.jpg",
+          "url": "http://t.co/oiGGBr8lhm",
+          "display_url": "pic.twitter.com/oiGGBr8lhm",
+          "expanded_url": "http://twitter.com/RepMarkWalker/status/626741923395579904/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 399,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 226,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 681,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/552872751111733248/kQOF6dW3_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/552872751111733248/kQOF6dW3_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2966205003/1420650040",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

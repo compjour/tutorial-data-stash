@@ -1,0 +1,113 @@
+{
+  "id": 29201047,
+  "id_str": "29201047",
+  "name": "Senator Jeff Merkley",
+  "screen_name": "SenJeffMerkley",
+  "location": "Oregon",
+  "description": "U.S. Senator from the State of Oregon",
+  "url": "http://t.co/g0KThX0Tg5",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/g0KThX0Tg5",
+          "expanded_url": "http://merkley.senate.gov",
+          "display_url": "merkley.senate.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 34558,
+  "friends_count": 173,
+  "listed_count": 2160,
+  "created_at": "Mon Apr 06 13:38:39 +0000 2009",
+  "favourites_count": 2,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 2040,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 20:05:52 +0000 2015",
+    "id": 627208578345119744,
+    "id_str": "627208578345119744",
+    "text": "RT! Seven things trade negotiators can do right now to strengthen the #TPP and make trade work for working families → http://t.co/47Dr1RC68P",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 10,
+    "favorite_count": 6,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TPP",
+          "indices": [
+            70,
+            74
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/47Dr1RC68P",
+          "expanded_url": "http://thehill.com/opinion/op-ed/249946-getting-the-tpp-right-what-needs-to-happen-in-hawaii",
+          "display_url": "thehill.com/opinion/op-ed/…",
+          "indices": [
+            118,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "457292",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/474313102255591424/_wLb5cuU.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/474313102255591424/_wLb5cuU.jpeg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000722784871/b68791dd767a19f46f2676e82f689107_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000722784871/b68791dd767a19f46f2676e82f689107_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/29201047/1429884312",
+  "profile_link_color": "93A427",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "D9E8F2",
+  "profile_text_color": "333333",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

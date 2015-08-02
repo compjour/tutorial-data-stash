@@ -1,0 +1,122 @@
+{
+  "id": 262756641,
+  "id_str": "262756641",
+  "name": "Senator Hatch Office",
+  "screen_name": "SenOrrinHatch",
+  "location": "",
+  "description": "U.S. Senator from Utah. Tweets are by Sen. Hatch's staff; those signed ogh are from Sen. Hatch himself.",
+  "url": "http://t.co/J4uQN7sg8O",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/J4uQN7sg8O",
+          "expanded_url": "http://www.hatch.senate.gov",
+          "display_url": "hatch.senate.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 13768,
+  "friends_count": 153,
+  "listed_count": 892,
+  "created_at": "Tue Mar 08 18:04:18 +0000 2011",
+  "favourites_count": 1,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 2878,
+  "lang": "en",
+  "status": {
+    "created_at": "Sat Aug 01 00:18:43 +0000 2015",
+    "id": 627272208281374724,
+    "id_str": "627272208281374724",
+    "text": "ICYMI: Hatch champions Utah transportation priorities in highway bill - #utpol http://t.co/P6cxHw51Tw https://t.co/vN2wVZvSpI",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "utpol",
+          "indices": [
+            72,
+            78
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/P6cxHw51Tw",
+          "expanded_url": "http://www.hatch.senate.gov/public/index.cfm/releases?ID=54ec4723-9a06-4bde-92ff-d4ce4182daaa",
+          "display_url": "hatch.senate.gov/public/index.c…",
+          "indices": [
+            79,
+            101
+          ]
+        },
+        {
+          "url": "https://t.co/vN2wVZvSpI",
+          "expanded_url": "https://www.youtube.com/watch?v=hjCJbx-GUks&feature=youtu.be",
+          "display_url": "youtube.com/watch?v=hjCJbx…",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "1F222F",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/219341076/tww.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/219341076/tww.jpg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1265985804/09232010_master_copy_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265985804/09232010_master_copy_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/262756641/1423780084",
+  "profile_link_color": "7D6325",
+  "profile_sidebar_border_color": "EEEEEE",
+  "profile_sidebar_fill_color": "EFEFEF",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

@@ -1,0 +1,143 @@
+{
+  "id": 2965083477,
+  "id_str": "2965083477",
+  "name": "Congressman Rod Blum",
+  "screen_name": "RepRodBlum",
+  "location": "Northeast Iowa",
+  "description": "Official Account Of Iowa's 1st District Congressman Rod Blum. Member of @GOPoversight & the House Budget Committee #IA01",
+  "url": "http://t.co/Bj8xkyTeIJ",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/Bj8xkyTeIJ",
+          "expanded_url": "http://blum.house.gov",
+          "display_url": "blum.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 2033,
+  "friends_count": 992,
+  "listed_count": 100,
+  "created_at": "Tue Jan 06 22:59:49 +0000 2015",
+  "favourites_count": 47,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 375,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 20:05:01 +0000 2015",
+    "id": 627208365542875138,
+    "id_str": "627208365542875138",
+    "text": "Wonderful visit &amp; town hall at Hills &amp; Dales community center in Dubuque! Amazing organization. #IA01 http://t.co/BoyIrX3z79",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "IA01",
+          "indices": [
+            104,
+            109
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 627208364020207616,
+          "id_str": "627208364020207616",
+          "indices": [
+            110,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/CLRKrxmUEAAxaKs.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLRKrxmUEAAxaKs.jpg",
+          "url": "http://t.co/BoyIrX3z79",
+          "display_url": "pic.twitter.com/BoyIrX3z79",
+          "expanded_url": "http://twitter.com/RepRodBlum/status/627208365542875138/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 512,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 170,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/563377937609547776/QgjEd3ns_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/563377937609547776/QgjEd3ns_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2965083477/1425483647",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

@@ -1,0 +1,135 @@
+{
+  "id": 237814920,
+  "id_str": "237814920",
+  "name": "Rep. Randy Hultgren",
+  "screen_name": "RepHultgren",
+  "location": "",
+  "description": "Member of Congress proudly representing Illinois' 14th District. Serving on @HouseScience @FinancialCmte Committees. Find me on FB at http://t.co/cAzY81jGee.",
+  "url": "http://t.co/RxXWsFX5aP",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/RxXWsFX5aP",
+          "expanded_url": "http://hultgren.house.gov",
+          "display_url": "hultgren.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/cAzY81jGee",
+          "expanded_url": "http://www.facebook.com/rephultgren",
+          "display_url": "facebook.com/rephultgren",
+          "indices": [
+            134,
+            156
+          ]
+        }
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 8054,
+  "friends_count": 1779,
+  "listed_count": 597,
+  "created_at": "Thu Jan 13 18:03:42 +0000 2011",
+  "favourites_count": 92,
+  "utc_offset": -18000,
+  "time_zone": "Central Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 2983,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 14:01:08 +0000 2015",
+    "id": 627116790309613568,
+    "id_str": "627116790309613568",
+    "text": "Watch as I explain my new #healthcare alternative legislation, the State Health Care Options Act: https://t.co/n8rzX8kPIi #ACA #StateOptions",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "healthcare",
+          "indices": [
+            26,
+            37
+          ]
+        },
+        {
+          "text": "ACA",
+          "indices": [
+            122,
+            126
+          ]
+        },
+        {
+          "text": "StateOptions",
+          "indices": [
+            127,
+            140
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/n8rzX8kPIi",
+          "expanded_url": "https://youtu.be/wY3jHZr1xHo",
+          "display_url": "youtu.be/wY3jHZr1xHo",
+          "indices": [
+            98,
+            121
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/536643877/Metra.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/536643877/Metra.jpg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1555301015/Hultgren_Low-Res_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1555301015/Hultgren_Low-Res_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/237814920/1398278273",
+  "profile_link_color": "3F515C",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

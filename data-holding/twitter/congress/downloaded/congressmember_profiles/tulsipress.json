@@ -1,0 +1,122 @@
+{
+  "id": 1064206014,
+  "id_str": "1064206014",
+  "name": "Rep. Tulsi Gabbard",
+  "screen_name": "TulsiPress",
+  "location": "",
+  "description": "Aloha and welcome to the official Twitter page of Congresswoman Tulsi Gabbard (HI-02). Account managed by staff. Tulsi tweets signed TG.",
+  "url": "http://t.co/gMf3nFbm",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/gMf3nFbm",
+          "expanded_url": "http://gabbard.house.gov",
+          "display_url": "gabbard.house.gov",
+          "indices": [
+            0,
+            20
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 10155,
+  "friends_count": 733,
+  "listed_count": 388,
+  "created_at": "Sat Jan 05 22:57:50 +0000 2013",
+  "favourites_count": 175,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 1124,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 23:36:02 +0000 2015",
+    "id": 627261468921040896,
+    "id_str": "627261468921040896",
+    "text": "@SOHawaii athletes are doing great in the #SpecialOlympicsWorldGames! http://t.co/MpXB4jJukh",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 25373043,
+    "in_reply_to_user_id_str": "25373043",
+    "in_reply_to_screen_name": "SOHawaii",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 5,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SpecialOlympicsWorldGames",
+          "indices": [
+            42,
+            68
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "SOHawaii",
+          "name": "Special Olympics HI",
+          "id": 25373043,
+          "id_str": "25373043",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/MpXB4jJukh",
+          "expanded_url": "http://tinyurl.com/phtf8r8",
+          "display_url": "tinyurl.com/phtf8r8",
+          "indices": [
+            70,
+            92
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/864397023/36d77563c7ba1aa257e17474dc44e14f.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/864397023/36d77563c7ba1aa257e17474dc44e14f.jpeg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3599981746/f2ae50b7a68febfe1c960e713e5a0ff4_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3599981746/f2ae50b7a68febfe1c960e713e5a0ff4_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1064206014/1396986019",
+  "profile_link_color": "0B88B5",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

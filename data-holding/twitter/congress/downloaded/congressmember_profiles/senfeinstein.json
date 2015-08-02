@@ -1,0 +1,115 @@
+{
+  "id": 476256944,
+  "id_str": "476256944",
+  "name": "Sen Dianne Feinstein",
+  "screen_name": "SenFeinstein",
+  "location": "California",
+  "description": "United States Senator from California. On Facebook at: http://t.co/siExqwIu",
+  "url": "http://t.co/x96JRcShsB",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/x96JRcShsB",
+          "expanded_url": "http://www.feinstein.senate.gov",
+          "display_url": "feinstein.senate.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/siExqwIu",
+          "expanded_url": "http://facebook.com/senatorfeinstein",
+          "display_url": "facebook.com/senatorfeinste…",
+          "indices": [
+            55,
+            75
+          ]
+        }
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 56873,
+  "friends_count": 130,
+  "listed_count": 2078,
+  "created_at": "Fri Jan 27 23:06:59 +0000 2012",
+  "favourites_count": 0,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 2323,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 19:21:08 +0000 2015",
+    "id": 627197319860125696,
+    "id_str": "627197319860125696",
+    "text": "Economic effects of drought are dire. $2.7 bil in economic damages, 18.6k jobs lost, 563k acres of farmland fallowed. http://t.co/7zRF730lcF",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 627197123126259713,
+    "in_reply_to_status_id_str": "627197123126259713",
+    "in_reply_to_user_id": 476256944,
+    "in_reply_to_user_id_str": "476256944",
+    "in_reply_to_screen_name": "SenFeinstein",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 8,
+    "favorite_count": 8,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/7zRF730lcF",
+          "expanded_url": "http://feinstein.senate.gov/waterbill",
+          "display_url": "feinstein.senate.gov/waterbill",
+          "indices": [
+            118,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/415309805/Golden_Gate_Bridge_for_Twitter_JPEG_TRY_minus_sky.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/415309805/Golden_Gate_Bridge_for_Twitter_JPEG_TRY_minus_sky.jpg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1799394941/DF_Profile_Pic_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1799394941/DF_Profile_Pic_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/476256944/1401304971",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

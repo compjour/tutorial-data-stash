@@ -1,0 +1,173 @@
+{
+  "id": 233693291,
+  "id_str": "233693291",
+  "name": "Rep Rick Crawford",
+  "screen_name": "RepRickCrawford",
+  "location": "Washington, DC",
+  "description": "Representing Arkansas's First District in the United States Congress",
+  "url": "http://t.co/8JmttzqjRR",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/8JmttzqjRR",
+          "expanded_url": "http://crawford.house.gov",
+          "display_url": "crawford.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 8821,
+  "friends_count": 1267,
+  "listed_count": 570,
+  "created_at": "Mon Jan 03 21:57:49 +0000 2011",
+  "favourites_count": 128,
+  "utc_offset": -18000,
+  "time_zone": "Central Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 2352,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 22:08:22 +0000 2015",
+    "id": 627239403858079744,
+    "id_str": "627239403858079744",
+    "text": "RT @codingARfuture: With knowledge of coding, workers are going from $20K per year as waiters to making six figures. http://t.co/iWfW8hjVlH…",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 30 02:48:49 +0000 2015",
+      "id": 626585208729370624,
+      "id_str": "626585208729370624",
+      "text": "With knowledge of coding, workers are going from $20K per year as waiters to making six figures. http://t.co/iWfW8hjVlH #codingARfuture",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "codingARfuture",
+            "indices": [
+              120,
+              135
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/iWfW8hjVlH",
+            "expanded_url": "http://nyti.ms/1HYAuA",
+            "display_url": "nyti.ms/1HYAuA",
+            "indices": [
+              97,
+              119
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "codingARfuture",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "codingARfuture",
+          "name": "#codingARfuture",
+          "id": 3107892536,
+          "id_str": "3107892536",
+          "indices": [
+            3,
+            18
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/iWfW8hjVlH",
+          "expanded_url": "http://nyti.ms/1HYAuA",
+          "display_url": "nyti.ms/1HYAuA",
+          "indices": [
+            117,
+            139
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "DBE9ED",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/267022676/crawfordtwitter.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/267022676/crawfordtwitter.jpg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/553316637839867904/LCvmf7iq_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/553316637839867904/LCvmf7iq_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/233693291/1398711862",
+  "profile_link_color": "048C09",
+  "profile_sidebar_border_color": "2E517B",
+  "profile_sidebar_fill_color": "C1CCDE",
+  "profile_text_color": "2424C7",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

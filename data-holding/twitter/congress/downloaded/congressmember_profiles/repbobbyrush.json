@@ -1,0 +1,293 @@
+{
+  "id": 305216911,
+  "id_str": "305216911",
+  "name": "Bobby L. Rush",
+  "screen_name": "RepBobbyRush",
+  "location": "D.C./Chicago & SW Suburbs",
+  "description": "The official twitter account of Rep. Bobby L. Rush.  For official policy please see http://t.co/biKpeeMhCz.  RT does NOT constitute an endorsement.",
+  "url": "http://t.co/fZruAAdEJY",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/fZruAAdEJY",
+          "expanded_url": "http://rush.house.gov",
+          "display_url": "rush.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/biKpeeMhCz",
+          "expanded_url": "http://on.fb.me/iosyMF",
+          "display_url": "on.fb.me/iosyMF",
+          "indices": [
+            84,
+            106
+          ]
+        }
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 5482,
+  "friends_count": 163,
+  "listed_count": 447,
+  "created_at": "Wed May 25 20:59:25 +0000 2011",
+  "favourites_count": 0,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 644,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Jul 30 18:11:59 +0000 2015",
+    "id": 626817530393436160,
+    "id_str": "626817530393436160",
+    "text": "RT @OfficialCBC: @OfficialCBC marks 50th anniversary of #Medicare &amp; #Medicaid  \nhttp://t.co/17x9G0ueAa http://t.co/eRtov38GU9",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 30 18:11:24 +0000 2015",
+      "id": 626817381931814912,
+      "id_str": "626817381931814912",
+      "text": "@OfficialCBC marks 50th anniversary of #Medicare &amp; #Medicaid  \nhttp://t.co/17x9G0ueAa http://t.co/eRtov38GU9",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 233783568,
+      "in_reply_to_user_id_str": "233783568",
+      "in_reply_to_screen_name": "OfficialCBC",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 7,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Medicare",
+            "indices": [
+              39,
+              48
+            ]
+          },
+          {
+            "text": "Medicaid",
+            "indices": [
+              55,
+              64
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "OfficialCBC",
+            "name": "THE CBC",
+            "id": 233783568,
+            "id_str": "233783568",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/17x9G0ueAa",
+            "expanded_url": "http://1.usa.gov/1KBFPC4",
+            "display_url": "1.usa.gov/1KBFPC4",
+            "indices": [
+              67,
+              89
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 626817381470457856,
+            "id_str": "626817381470457856",
+            "indices": [
+              90,
+              112
+            ],
+            "media_url": "http://pbs.twimg.com/media/CLLnFmGWUAAum_2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CLLnFmGWUAAum_2.jpg",
+            "url": "http://t.co/eRtov38GU9",
+            "display_url": "pic.twitter.com/eRtov38GU9",
+            "expanded_url": "http://twitter.com/OfficialCBC/status/626817381931814912/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 352,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 602,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Medicare",
+          "indices": [
+            56,
+            65
+          ]
+        },
+        {
+          "text": "Medicaid",
+          "indices": [
+            72,
+            81
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "OfficialCBC",
+          "name": "THE CBC",
+          "id": 233783568,
+          "id_str": "233783568",
+          "indices": [
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "OfficialCBC",
+          "name": "THE CBC",
+          "id": 233783568,
+          "id_str": "233783568",
+          "indices": [
+            17,
+            29
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/17x9G0ueAa",
+          "expanded_url": "http://1.usa.gov/1KBFPC4",
+          "display_url": "1.usa.gov/1KBFPC4",
+          "indices": [
+            84,
+            106
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 626817381470457856,
+          "id_str": "626817381470457856",
+          "indices": [
+            107,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/media/CLLnFmGWUAAum_2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLLnFmGWUAAum_2.jpg",
+          "url": "http://t.co/eRtov38GU9",
+          "display_url": "pic.twitter.com/eRtov38GU9",
+          "expanded_url": "http://twitter.com/OfficialCBC/status/626817381931814912/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 352,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 602,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          },
+          "source_status_id": 626817381931814912,
+          "source_status_id_str": "626817381931814912",
+          "source_user_id": 233783568,
+          "source_user_id_str": "233783568"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000172084485/f1498b4c9a4df5a036d108993be4bf4b_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000172084485/f1498b4c9a4df5a036d108993be4bf4b_normal.jpeg",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

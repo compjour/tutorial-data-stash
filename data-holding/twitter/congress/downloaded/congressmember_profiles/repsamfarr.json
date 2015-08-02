@@ -1,0 +1,200 @@
+{
+  "id": 158398519,
+  "id_str": "158398519",
+  "name": "Congressman Sam Farr",
+  "screen_name": "RepSamFarr",
+  "location": "",
+  "description": "Congressman Sam Farr represents California's Central Coast and is the Ranking Member on the House Agriculture Appropriations Subcommittee.",
+  "url": "http://t.co/peic5yFHXJ",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/peic5yFHXJ",
+          "expanded_url": "http://www.farr.house.gov",
+          "display_url": "farr.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 9522,
+  "friends_count": 899,
+  "listed_count": 638,
+  "created_at": "Tue Jun 22 15:30:19 +0000 2010",
+  "favourites_count": 1031,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 1948,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 21:35:46 +0000 2015",
+    "id": 627231199967211520,
+    "id_str": "627231199967211520",
+    "text": "RT @matthewferner: .@DanaRohrabacher &amp; @RepSamFarr call for investigation into DOJ's continued crackdown on medical marijuana\nhttp://t.co/y…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jul 31 20:53:31 +0000 2015",
+      "id": 627220569205833729,
+      "id_str": "627220569205833729",
+      "text": ".@DanaRohrabacher &amp; @RepSamFarr call for investigation into DOJ's continued crackdown on medical marijuana\nhttp://t.co/yTHu4untO6",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "DanaRohrabacher",
+            "name": "Dana Rohrabacher",
+            "id": 19139963,
+            "id_str": "19139963",
+            "indices": [
+              1,
+              17
+            ]
+          },
+          {
+            "screen_name": "RepSamFarr",
+            "name": "Congressman Sam Farr",
+            "id": 158398519,
+            "id_str": "158398519",
+            "indices": [
+              24,
+              35
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/yTHu4untO6",
+            "expanded_url": "http://www.huffingtonpost.com/entry/lawmakers-call-for-investigation-into-dojs-continued-crackdown-of-medical-marijuana_55bba4f4e4b0d4f33a0296ab?3jxde7b9",
+            "display_url": "huffingtonpost.com/entry/lawmaker…",
+            "indices": [
+              111,
+              133
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "matthewferner",
+          "name": "Matt Ferner",
+          "id": 187426352,
+          "id_str": "187426352",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "DanaRohrabacher",
+          "name": "Dana Rohrabacher",
+          "id": 19139963,
+          "id_str": "19139963",
+          "indices": [
+            20,
+            36
+          ]
+        },
+        {
+          "screen_name": "RepSamFarr",
+          "name": "Congressman Sam Farr",
+          "id": 158398519,
+          "id_str": "158398519",
+          "indices": [
+            43,
+            54
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/yTHu4untO6",
+          "expanded_url": "http://www.huffingtonpost.com/entry/lawmakers-call-for-investigation-into-dojs-continued-crackdown-of-medical-marijuana_55bba4f4e4b0d4f33a0296ab?3jxde7b9",
+          "display_url": "huffingtonpost.com/entry/lawmaker…",
+          "indices": [
+            130,
+            144
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "1D5076",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000045894290/687f1262753c03f09b598312f0fce78d.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000045894290/687f1262753c03f09b598312f0fce78d.jpeg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/593525377135288322/mK7ZzGsx_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/593525377135288322/mK7ZzGsx_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/158398519/1367341773",
+  "profile_link_color": "1D5076",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

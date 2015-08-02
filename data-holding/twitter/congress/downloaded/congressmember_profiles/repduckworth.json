@@ -1,0 +1,121 @@
+{
+  "id": 1058520120,
+  "id_str": "1058520120",
+  "name": "Tammy Duckworth",
+  "screen_name": "RepDuckworth",
+  "location": "",
+  "description": "Official Twitter account for Tammy Duckworth's congressional office. Posts by staff unless signed - TD. For more information, visit",
+  "url": "http://t.co/P41iF0yw",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/P41iF0yw",
+          "expanded_url": "http://duckworth.house.gov",
+          "display_url": "duckworth.house.gov",
+          "indices": [
+            0,
+            20
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 10481,
+  "friends_count": 8292,
+  "listed_count": 511,
+  "created_at": "Thu Jan 03 18:59:33 +0000 2013",
+  "favourites_count": 72,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 1298,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 13:35:06 +0000 2015",
+    "id": 627110239607857152,
+    "id_str": "627110239607857152",
+    "text": "In my op-ed in the @dailyherald I discuss how #ADA changed my life and helps millions more live fulfilling lives.  http://t.co/9D1h1emmOB",
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 6,
+    "favorite_count": 8,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ADA",
+          "indices": [
+            46,
+            50
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "dailyherald",
+          "name": "Daily Herald",
+          "id": 8960722,
+          "id_str": "8960722",
+          "indices": [
+            19,
+            31
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/9D1h1emmOB",
+          "expanded_url": "http://ow.ly/Qko1W",
+          "display_url": "ow.ly/Qko1W",
+          "indices": [
+            115,
+            137
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446026993046257664/-_wxXQDm.png",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446026993046257664/-_wxXQDm.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3061388097/81482e05779aa0b099d86ebb83df18c3_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3061388097/81482e05779aa0b099d86ebb83df18c3_normal.jpeg",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

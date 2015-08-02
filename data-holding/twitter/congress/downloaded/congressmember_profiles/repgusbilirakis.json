@@ -1,0 +1,212 @@
+{
+  "id": 26051676,
+  "id_str": "26051676",
+  "name": "Gus Bilirakis",
+  "screen_name": "RepGusBilirakis",
+  "location": "Palm Harbor, Fla.",
+  "description": "Congressman for Florida’s 12th Congressional District, Committees: @HouseCommerce @HouseVetAffairs",
+  "url": "http://t.co/4oHwHdDPuy",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/4oHwHdDPuy",
+          "expanded_url": "http://bilirakis.house.gov",
+          "display_url": "bilirakis.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 11764,
+  "friends_count": 1218,
+  "listed_count": 952,
+  "created_at": "Mon Mar 23 17:56:32 +0000 2009",
+  "favourites_count": 132,
+  "utc_offset": -18000,
+  "time_zone": "Quito",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 3633,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 16:39:56 +0000 2015",
+    "id": 627156754015617025,
+    "id_str": "627156754015617025",
+    "text": "RT @ECcures: ICYMI: @LakerLutzNews takes a look back at @RepGusBilirakis' #Cures2015 roundtables --&gt; http://t.co/UuuwHFmfM0",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jul 31 14:43:15 +0000 2015",
+      "id": 627127388376289284,
+      "id_str": "627127388376289284",
+      "text": "ICYMI: @LakerLutzNews takes a look back at @RepGusBilirakis' #Cures2015 roundtables --&gt; http://t.co/UuuwHFmfM0",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Cures2015",
+            "indices": [
+              61,
+              71
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "LakerLutzNews",
+            "name": "The Laker/Lutz News",
+            "id": 1654143535,
+            "id_str": "1654143535",
+            "indices": [
+              7,
+              21
+            ]
+          },
+          {
+            "screen_name": "RepGusBilirakis",
+            "name": "Gus Bilirakis",
+            "id": 26051676,
+            "id_str": "26051676",
+            "indices": [
+              43,
+              59
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/UuuwHFmfM0",
+            "expanded_url": "http://1.usa.gov/1MXsRMd",
+            "display_url": "1.usa.gov/1MXsRMd",
+            "indices": [
+              91,
+              113
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Cures2015",
+          "indices": [
+            74,
+            84
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ECcures",
+          "name": "EnergyCommerceCures",
+          "id": 2469604452,
+          "id_str": "2469604452",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "LakerLutzNews",
+          "name": "The Laker/Lutz News",
+          "id": 1654143535,
+          "id_str": "1654143535",
+          "indices": [
+            20,
+            34
+          ]
+        },
+        {
+          "screen_name": "RepGusBilirakis",
+          "name": "Gus Bilirakis",
+          "id": 26051676,
+          "id_str": "26051676",
+          "indices": [
+            56,
+            72
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/UuuwHFmfM0",
+          "expanded_url": "http://1.usa.gov/1MXsRMd",
+          "display_url": "1.usa.gov/1MXsRMd",
+          "indices": [
+            104,
+            126
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "DCDAD0",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6521303/2gr_gov_seal16.gif",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6521303/2gr_gov_seal16.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/467339251021910016/jcMf9k3l_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/467339251021910016/jcMf9k3l_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/26051676/1400257363",
+  "profile_link_color": "AD0733",
+  "profile_sidebar_border_color": "4D52A3",
+  "profile_sidebar_fill_color": "F8F7F7",
+  "profile_text_color": "CA021E",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

@@ -1,0 +1,137 @@
+{
+  "id": 235312723,
+  "id_str": "235312723",
+  "name": "Scott DesJarlais",
+  "screen_name": "DesJarlaisTN04",
+  "location": "",
+  "description": "Republican Congressman for Tennessee's 4th Congressional District.",
+  "url": "http://t.co/omXrQSGbn2",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/omXrQSGbn2",
+          "expanded_url": "http://www.facebook.com/ScottDesJarlaisTN04",
+          "display_url": "facebook.com/ScottDesJarlai…",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 7510,
+  "friends_count": 1110,
+  "listed_count": 598,
+  "created_at": "Fri Jan 07 21:47:44 +0000 2011",
+  "favourites_count": 18,
+  "utc_offset": -10800,
+  "time_zone": "Atlantic Time (Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 2576,
+  "lang": "en",
+  "status": {
+    "created_at": "Wed Jul 29 19:19:33 +0000 2015",
+    "id": 626472145795874816,
+    "id_str": "626472145795874816",
+    "text": "Our veterans deserve better. Plain and simple. http://t.co/V9Wufi7C1h",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 626464100307083264,
+          "id_str": "626464100307083264",
+          "indices": [
+            47,
+            69
+          ],
+          "media_url": "http://pbs.twimg.com/media/CLGlx7NWoAAdXAW.png",
+          "media_url_https": "https://pbs.twimg.com/media/CLGlx7NWoAAdXAW.png",
+          "url": "http://t.co/V9Wufi7C1h",
+          "display_url": "pic.twitter.com/V9Wufi7C1h",
+          "expanded_url": "http://twitter.com/DesJarlaisTN04/status/626472145795874816/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 535,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 314,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 177,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "022330",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/322548805/iStock_000011580148Large.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/322548805/iStock_000011580148Large.jpg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1264997339/DesJarlais.OfficialPhoto_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1264997339/DesJarlais.OfficialPhoto_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/235312723/1421860458",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "A8C7F7",
+  "profile_sidebar_fill_color": "C0DFEC",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

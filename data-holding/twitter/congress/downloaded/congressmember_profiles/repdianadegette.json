@@ -1,0 +1,116 @@
+{
+  "id": 28599820,
+  "id_str": "28599820",
+  "name": "Rep. Diana DeGette",
+  "screen_name": "RepDianaDeGette",
+  "location": "Denver, CO",
+  "description": "Member of Congress, Colorado's 1st Congressional District. Chief Deputy Whip & member of Energy and Commerce Committee.",
+  "url": "http://t.co/ADHTXH6MGD",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/ADHTXH6MGD",
+          "expanded_url": "http://www.facebook.com/DianaDeGette",
+          "display_url": "facebook.com/DianaDeGette",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 14516,
+  "friends_count": 11543,
+  "listed_count": 962,
+  "created_at": "Fri Apr 03 16:41:06 +0000 2009",
+  "favourites_count": 69,
+  "utc_offset": -21600,
+  "time_zone": "Mountain Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 1763,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 19:44:09 +0000 2015",
+    "id": 627203110608478208,
+    "id_str": "627203110608478208",
+    "text": "Come for the insults, stay to watch @JohnDingell curse (bleeped out, of course) on camera https://t.co/Gm3MAlAozK",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "JohnDingell",
+          "name": "John Dingell",
+          "id": 109025212,
+          "id_str": "109025212",
+          "indices": [
+            36,
+            48
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Gm3MAlAozK",
+          "expanded_url": "https://twitter.com/JohnDingell/status/627199336292618240",
+          "display_url": "twitter.com/JohnDingell/st…",
+          "indices": [
+            90,
+            113
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "B2DFDA",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000181612133/ke7mAF2Q.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000181612133/ke7mAF2Q.jpeg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/461207675305345024/1TC0Se2m_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/461207675305345024/1TC0Se2m_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/28599820/1398803462",
+  "profile_link_color": "93A644",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "FFFFFF",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

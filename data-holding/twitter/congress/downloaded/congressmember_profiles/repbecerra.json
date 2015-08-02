@@ -1,0 +1,188 @@
+{
+  "id": 133832049,
+  "id_str": "133832049",
+  "name": "Xavier Becerra",
+  "screen_name": "RepBecerra",
+  "location": "Los Angeles, CA",
+  "description": "Chairman of the @HouseDemocrats. Proudly representing California's 34th Congressional District.",
+  "url": "http://t.co/F2aPVwZMX6",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/F2aPVwZMX6",
+          "expanded_url": "http://becerra.house.gov",
+          "display_url": "becerra.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 18630,
+  "friends_count": 1852,
+  "listed_count": 1062,
+  "created_at": "Fri Apr 16 19:04:13 +0000 2010",
+  "favourites_count": 3,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 1794,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 17:36:05 +0000 2015",
+    "id": 627170883673714688,
+    "id_str": "627170883673714688",
+    "text": "RT @ActiveRetirees: .@RepBecerra has introduced #OneSocialSecurity to protect 11 million Americans from a 19% cut to their earned #SocialSe…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jul 31 17:25:16 +0000 2015",
+      "id": 627168161641680896,
+      "id_str": "627168161641680896",
+      "text": ".@RepBecerra has introduced #OneSocialSecurity to protect 11 million Americans from a 19% cut to their earned #SocialSecurity benefits",
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 8,
+      "favorite_count": 5,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "OneSocialSecurity",
+            "indices": [
+              28,
+              46
+            ]
+          },
+          {
+            "text": "SocialSecurity",
+            "indices": [
+              110,
+              125
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "RepBecerra",
+            "name": "Xavier Becerra",
+            "id": 133832049,
+            "id_str": "133832049",
+            "indices": [
+              1,
+              12
+            ]
+          }
+        ],
+        "urls": [
+
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "OneSocialSecurity",
+          "indices": [
+            48,
+            66
+          ]
+        },
+        {
+          "text": "SocialSecurity",
+          "indices": [
+            130,
+            140
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ActiveRetirees",
+          "name": "Alliance Retirees",
+          "id": 73413771,
+          "id_str": "73413771",
+          "indices": [
+            3,
+            18
+          ]
+        },
+        {
+          "screen_name": "RepBecerra",
+          "name": "Xavier Becerra",
+          "id": 133832049,
+          "id_str": "133832049",
+          "indices": [
+            21,
+            32
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "F2EFEF",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000092533927/dd59df2fa772ed70909c016d68a2ca62.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000092533927/dd59df2fa772ed70909c016d68a2ca62.jpeg",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/447001588276555776/I9nQqpC6_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/447001588276555776/I9nQqpC6_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/133832049/1387397286",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "EDEDED",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

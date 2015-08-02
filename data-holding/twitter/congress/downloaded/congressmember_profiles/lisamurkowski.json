@@ -1,0 +1,146 @@
+{
+  "id": 18061669,
+  "id_str": "18061669",
+  "name": "Sen. Lisa Murkowski",
+  "screen_name": "lisamurkowski",
+  "location": "Alaska & Washington, D.C.",
+  "description": "Official Twitter account for U.S. Senator Lisa Murkowski. Follow me for news and updates on what's happening in the Senate and across Alaska.",
+  "url": "http://t.co/7OYLmD37oC",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/7OYLmD37oC",
+          "expanded_url": "http://murkowski.senate.gov",
+          "display_url": "murkowski.senate.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 30681,
+  "friends_count": 496,
+  "listed_count": 1959,
+  "created_at": "Thu Dec 11 21:55:19 +0000 2008",
+  "favourites_count": 8,
+  "utc_offset": -18000,
+  "time_zone": "Central Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 3082,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 19:19:52 +0000 2015",
+    "id": 627197003131428864,
+    "id_str": "627197003131428864",
+    "text": "My staffer Mari Freitag is joining the @USNavy to train to be a Naval Aviator. She has served AK well &amp; I'm so proud! http://t.co/DjSphn5zTg",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 6,
+    "favorite_count": 15,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "USNavy",
+          "name": "U.S. Navy",
+          "id": 54885400,
+          "id_str": "54885400",
+          "indices": [
+            39,
+            46
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 627196994428080129,
+          "id_str": "627196994428080129",
+          "indices": [
+            122,
+            144
+          ],
+          "media_url": "http://pbs.twimg.com/media/CLRAV-kUEAE-JUn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLRAV-kUEAE-JUn.jpg",
+          "url": "http://t.co/DjSphn5zTg",
+          "display_url": "pic.twitter.com/DjSphn5zTg",
+          "expanded_url": "http://twitter.com/lisamurkowski/status/627197003131428864/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 513,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 1546,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 905,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "3F4C6B",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/532937815269453825/CVoJf05k.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/532937815269453825/CVoJf05k.jpeg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/613403354245562368/OukbMzMT_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/613403354245562368/OukbMzMT_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/18061669/1421099983",
+  "profile_link_color": "2FC2EF",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "252429",
+  "profile_text_color": "666666",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

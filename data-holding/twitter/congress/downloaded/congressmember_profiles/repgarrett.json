@@ -1,0 +1,113 @@
+{
+  "id": 960696949,
+  "id_str": "960696949",
+  "name": "Scott Garrett",
+  "screen_name": "RepGarrett",
+  "location": "",
+  "description": "Representing #NJ05.  Fighting for the Constitution, to control spending, and expand liberty and opportunity.",
+  "url": "http://t.co/y7Az2e8y",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/y7Az2e8y",
+          "expanded_url": "http://garrett.house.gov/",
+          "display_url": "garrett.house.gov",
+          "indices": [
+            0,
+            20
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 4171,
+  "friends_count": 193,
+  "listed_count": 333,
+  "created_at": "Tue Nov 20 15:44:58 +0000 2012",
+  "favourites_count": 0,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 565,
+  "lang": "en",
+  "status": {
+    "created_at": "Wed Jul 29 17:29:45 +0000 2015",
+    "id": 626444515184898048,
+    "id_str": "626444515184898048",
+    "text": "Introduced bill today to ensure US never helps Iran develop, modernize and protect their nuke program. #IranDeal http://t.co/Xz8DJV9H2J",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            103,
+            112
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/Xz8DJV9H2J",
+          "expanded_url": "http://1.usa.gov/1U76b0i",
+          "display_url": "1.usa.gov/1U76b0i",
+          "indices": [
+            113,
+            135
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2898535197/887ee0eaf1adcf77b8aa72ab928d8f5f_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2898535197/887ee0eaf1adcf77b8aa72ab928d8f5f_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/960696949/1353947746",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

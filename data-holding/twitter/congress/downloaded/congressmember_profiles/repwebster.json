@@ -1,0 +1,145 @@
+{
+  "id": 281540744,
+  "id_str": "281540744",
+  "name": "Daniel Webster",
+  "screen_name": "RepWebster",
+  "location": "Central Florida",
+  "description": "A family man and small-business owner who is dedicated to serving the citizens of Central Florida with honor and integrity.",
+  "url": "http://t.co/b57txtC4Hx",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/b57txtC4Hx",
+          "expanded_url": "http://webster.house.gov",
+          "display_url": "webster.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 6280,
+  "friends_count": 310,
+  "listed_count": 500,
+  "created_at": "Wed Apr 13 13:47:05 +0000 2011",
+  "favourites_count": 11,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 2331,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Jul 30 15:31:08 +0000 2015",
+    "id": 626777052667101184,
+    "id_str": "626777052667101184",
+    "text": "@AIPAC reps expressed their concerns about the proposed nuclear deal with Iran &amp; security threats it poses to Israel http://t.co/uBJXCX8q0G",
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 15987296,
+    "in_reply_to_user_id_str": "15987296",
+    "in_reply_to_screen_name": "AIPAC",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "AIPAC",
+          "name": "AIPAC",
+          "id": 15987296,
+          "id_str": "15987296",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 626777052595798016,
+          "id_str": "626777052595798016",
+          "indices": [
+            121,
+            143
+          ],
+          "media_url": "http://pbs.twimg.com/media/CLLCaJVWwAAwtiR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLLCaJVWwAAwtiR.jpg",
+          "url": "http://t.co/uBJXCX8q0G",
+          "display_url": "pic.twitter.com/uBJXCX8q0G",
+          "expanded_url": "http://twitter.com/RepWebster/status/626777052667101184/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 402,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 228,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1008,
+              "h": 677,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/754058261/4c802c84362af50624634b8eac67b58e.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/754058261/4c802c84362af50624634b8eac67b58e.jpeg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1362512985/Twitter_Pic_2_normal.png",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1362512985/Twitter_Pic_2_normal.png",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

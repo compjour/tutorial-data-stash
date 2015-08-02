@@ -1,0 +1,122 @@
+{
+  "id": 25781141,
+  "id_str": "25781141",
+  "name": "Sandy Levin",
+  "screen_name": "repsandylevin",
+  "location": "",
+  "description": "Congressman Sandy Levin representing Michigan’s 9th Congressional District. Ranking Member of the House Ways and Means Committee.",
+  "url": "http://t.co/37D2qhVvNn",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/37D2qhVvNn",
+          "expanded_url": "http://levin.house.gov/",
+          "display_url": "levin.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 17970,
+  "friends_count": 14542,
+  "listed_count": 983,
+  "created_at": "Sun Mar 22 04:32:56 +0000 2009",
+  "favourites_count": 418,
+  "utc_offset": -18000,
+  "time_zone": "Quito",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 1583,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Jul 30 17:05:45 +0000 2015",
+    "id": 626800860207542272,
+    "id_str": "626800860207542272",
+    "text": "We all must dig deeply into the facts regarding the #IranNuclearDeal → http://t.co/3EPnbR3qTX .  Good op-ed @NYTimesCohen",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 22,
+    "favorite_count": 12,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "IranNuclearDeal",
+          "indices": [
+            52,
+            68
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "NYTimesCohen",
+          "name": "Roger Cohen",
+          "id": 157009365,
+          "id_str": "157009365",
+          "indices": [
+            108,
+            121
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/3EPnbR3qTX",
+          "expanded_url": "http://nyti.ms/1VPHpnj",
+          "display_url": "nyti.ms/1VPHpnj",
+          "indices": [
+            71,
+            93
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "040B57",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6605591/sandytwitter.gif",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6605591/sandytwitter.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/459045542182408192/SnzWxNAu_normal.png",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/459045542182408192/SnzWxNAu_normal.png",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/25781141/1348076617",
+  "profile_link_color": "246630",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "CCD6C7",
+  "profile_text_color": "333333",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

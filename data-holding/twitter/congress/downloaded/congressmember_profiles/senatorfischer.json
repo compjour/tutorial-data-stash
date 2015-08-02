@@ -1,0 +1,113 @@
+{
+  "id": 1071402577,
+  "id_str": "1071402577",
+  "name": "Senator Deb Fischer",
+  "screen_name": "SenatorFischer",
+  "location": "",
+  "description": "U.S. Senator and Cherry County rancher working to bring some Nebraska common sense to Washington",
+  "url": "http://t.co/0O49SY7v",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/0O49SY7v",
+          "expanded_url": "http://fischer.senate.gov",
+          "display_url": "fischer.senate.gov",
+          "indices": [
+            0,
+            20
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 11178,
+  "friends_count": 148,
+  "listed_count": 684,
+  "created_at": "Tue Jan 08 16:49:07 +0000 2013",
+  "favourites_count": 21,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 1736,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Jul 30 17:41:26 +0000 2015",
+    "id": 626809843035193344,
+    "id_str": "626809843035193344",
+    "text": "Senate-passed #DriveAct is an important step toward providing certainty to our states, businesses, &amp; families. http://t.co/YCAvYtHfEA",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "DriveAct",
+          "indices": [
+            14,
+            23
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/YCAvYtHfEA",
+          "expanded_url": "http://goo.gl/7xVkMA",
+          "display_url": "goo.gl/7xVkMA",
+          "indices": [
+            115,
+            137
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "B4C9FA",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/776934757/0f1d0841d864a86abd9e27a363356a3a.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/776934757/0f1d0841d864a86abd9e27a363356a3a.jpeg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/519896467318665216/2bTZrb9E_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/519896467318665216/2bTZrb9E_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1071402577/1431724095",
+  "profile_link_color": "1F98C7",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "EFEFEF",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

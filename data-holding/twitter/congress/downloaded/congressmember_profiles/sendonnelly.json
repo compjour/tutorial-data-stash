@@ -1,0 +1,137 @@
+{
+  "id": 216503958,
+  "id_str": "216503958",
+  "name": "Senator Joe Donnelly",
+  "screen_name": "SenDonnelly",
+  "location": "",
+  "description": "U.S. Senator Joe Donnelly's communications staff",
+  "url": "http://t.co/fSOunnwiXz",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/fSOunnwiXz",
+          "expanded_url": "http://www.donnelly.senate.gov/",
+          "display_url": "donnelly.senate.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 16363,
+  "friends_count": 208,
+  "listed_count": 886,
+  "created_at": "Tue Nov 16 22:24:01 +0000 2010",
+  "favourites_count": 3,
+  "utc_offset": -18000,
+  "time_zone": "Central Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 2527,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 21:53:38 +0000 2015",
+    "id": 627235696038776832,
+    "id_str": "627235696038776832",
+    "text": "Joe's staff attended the Homes of Oakland City ribbon cutting today. http://t.co/PHupO6sm3t",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 627235695673917440,
+          "id_str": "627235695673917440",
+          "indices": [
+            69,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/media/CLRjir8WwAA23CA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLRjir8WwAA23CA.jpg",
+          "url": "http://t.co/PHupO6sm3t",
+          "display_url": "pic.twitter.com/PHupO6sm3t",
+          "expanded_url": "http://twitter.com/SenDonnelly/status/627235696038776832/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 720,
+              "h": 540,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/173040465/twitterbkgrd4.JPG",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/173040465/twitterbkgrd4.JPG",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3056574144/492143cf67a261108b6d06dafb5864b8_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3056574144/492143cf67a261108b6d06dafb5864b8_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/216503958/1401398234",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

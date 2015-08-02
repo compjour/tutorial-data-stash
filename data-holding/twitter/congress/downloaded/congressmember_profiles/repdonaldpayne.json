@@ -1,0 +1,139 @@
+{
+  "id": 1155335864,
+  "id_str": "1155335864",
+  "name": "Donald Payne Jr.",
+  "screen_name": "RepDonaldPayne",
+  "location": "www.facebook.com/DonaldPayneJr",
+  "description": "Proudly serving New Jersey's 10th Congressional District; Ranking Member Homeland Security Subcommittee on Emergency Preparedness, Response, and Communications",
+  "url": "http://t.co/X7zH0MlBcS",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/X7zH0MlBcS",
+          "expanded_url": "http://payne.house.gov",
+          "display_url": "payne.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 2982,
+  "friends_count": 690,
+  "listed_count": 254,
+  "created_at": "Wed Feb 06 22:52:35 +0000 2013",
+  "favourites_count": 48,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 1963,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 20:41:05 +0000 2015",
+    "id": 627217439856676865,
+    "id_str": "627217439856676865",
+    "text": "My interview w/ @THEHBCUNATION on #TechDiversity &amp; @OfficialCBC's #CBCTECH2020 initiative is up! \nhttps://t.co/nOu6LvuuM5",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "TechDiversity",
+          "indices": [
+            34,
+            48
+          ]
+        },
+        {
+          "text": "CBCTECH2020",
+          "indices": [
+            70,
+            82
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "THEHBCUNATION",
+          "name": "TheHBCUNation",
+          "id": 630310686,
+          "id_str": "630310686",
+          "indices": [
+            16,
+            30
+          ]
+        },
+        {
+          "screen_name": "OfficialCBC",
+          "name": "THE CBC",
+          "id": 233783568,
+          "id_str": "233783568",
+          "indices": [
+            55,
+            67
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nOu6LvuuM5",
+          "expanded_url": "https://soundcloud.com/thehbcunation/congressman-donald-payne",
+          "display_url": "soundcloud.com/thehbcunation/…",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000568364854/2b1f71f97532abaf9750e3114879c077_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000568364854/2b1f71f97532abaf9750e3114879c077_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1155335864/1433530380",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

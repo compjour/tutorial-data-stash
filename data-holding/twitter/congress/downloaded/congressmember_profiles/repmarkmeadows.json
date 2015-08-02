@@ -1,0 +1,122 @@
+{
+  "id": 963480595,
+  "id_str": "963480595",
+  "name": "Mark Meadows",
+  "screen_name": "RepMarkMeadows",
+  "location": "Jackson County, NC",
+  "description": "I am a businessman, husband and father proudly representing North Carolina's 11th Congressional District.",
+  "url": "http://t.co/dlt2DoDh",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/dlt2DoDh",
+          "expanded_url": "http://meadows.house.gov/",
+          "display_url": "meadows.house.gov",
+          "indices": [
+            0,
+            20
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 8961,
+  "friends_count": 1569,
+  "listed_count": 510,
+  "created_at": "Thu Nov 22 02:20:50 +0000 2012",
+  "favourites_count": 186,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 2358,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Jul 30 16:11:38 +0000 2015",
+    "id": 626787244892925953,
+    "id_str": "626787244892925953",
+    "text": "Federal judge threatens to hold #IRS chief in contempt http://t.co/I77jDAu7fF On Monday, @GOPoversight called on Obama to remove Koskinen",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 41,
+    "favorite_count": 30,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "IRS",
+          "indices": [
+            32,
+            36
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "GOPoversight",
+          "name": "GOP Oversight",
+          "id": 22508473,
+          "id_str": "22508473",
+          "indices": [
+            89,
+            102
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/I77jDAu7fF",
+          "expanded_url": "http://fxn.ws/1I4HyvN",
+          "display_url": "fxn.ws/1I4HyvN",
+          "indices": [
+            55,
+            77
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/818688227/00da83dc906fa8d116c3e96160859c22.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/818688227/00da83dc906fa8d116c3e96160859c22.jpeg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3121650282/7292de7a1b0c180cdebb9e19152933af_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3121650282/7292de7a1b0c180cdebb9e19152933af_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/963480595/1392915093",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

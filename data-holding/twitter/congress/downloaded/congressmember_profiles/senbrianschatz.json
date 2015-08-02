@@ -1,0 +1,107 @@
+{
+  "id": 1262099252,
+  "id_str": "1262099252",
+  "name": "Senator Brian Schatz",
+  "screen_name": "SenBrianSchatz",
+  "location": "",
+  "description": "Tweets from the Office of Senator Brian Schatz, representing the great state of Hawaii.",
+  "url": "http://t.co/TDwLqJb0Q9",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/TDwLqJb0Q9",
+          "expanded_url": "http://www.schatz.senate.gov/",
+          "display_url": "schatz.senate.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 5032,
+  "friends_count": 1334,
+  "listed_count": 396,
+  "created_at": "Tue Mar 12 14:23:20 +0000 2013",
+  "favourites_count": 0,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 225,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Jul 30 22:21:06 +0000 2015",
+    "id": 626880221258645508,
+    "id_str": "626880221258645508",
+    "text": "Schatz’s Provisions to Support Investment in Communities Near Transit and Promote Safer Streets Adopted by Senate http://t.co/3AF5xZ9VOX",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/3AF5xZ9VOX",
+          "expanded_url": "http://www.schatz.senate.gov/press-releases/senator-schatzs-provisions-to-support-investment-in-communities-near-transit-and-promote-safer-streets-adopted-by-senate",
+          "display_url": "schatz.senate.gov/press-releases…",
+          "indices": [
+            114,
+            136
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000106691076/2b6bbf33a22f72276ed69c7e8f0e4fa2.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000106691076/2b6bbf33a22f72276ed69c7e8f0e4fa2.jpeg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3370967884/5627448733f2bb29a2aa0e13ad4cd09f_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3370967884/5627448733f2bb29a2aa0e13ad4cd09f_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1262099252/1433862030",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

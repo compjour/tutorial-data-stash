@@ -1,0 +1,124 @@
+{
+  "id": 2962923040,
+  "id_str": "2962923040",
+  "name": "Senator Ben Sasse",
+  "screen_name": "SenSasse",
+  "location": "",
+  "description": "The press office account of U.S. Sen. Sasse. \n\nHis (less political/hopefully more interesting) personal account is at @BenSasse.",
+  "url": null,
+  "entities": {
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 3337,
+  "friends_count": 1,
+  "listed_count": 149,
+  "created_at": "Mon Jan 05 22:39:56 +0000 2015",
+  "favourites_count": 0,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 321,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 19:56:04 +0000 2015",
+    "id": 627206112404742144,
+    "id_str": "627206112404742144",
+    "text": "Today would've been Milton Friedman's 103rd birthday. Fitting that our interns just finished reading \"Free to Choose\" http://t.co/TxVPSeCI8N",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 15,
+    "favorite_count": 13,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 627206111955816448,
+          "id_str": "627206111955816448",
+          "indices": [
+            118,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CLRIosAUkAA2j_N.png",
+          "media_url_https": "https://pbs.twimg.com/media/CLRIosAUkAA2j_N.png",
+          "url": "http://t.co/TxVPSeCI8N",
+          "display_url": "pic.twitter.com/TxVPSeCI8N",
+          "expanded_url": "http://twitter.com/SenSasse/status/627206112404742144/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 170,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 512,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/552233907337179138/D7idMyaS_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/552233907337179138/D7idMyaS_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2962923040/1420498723",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

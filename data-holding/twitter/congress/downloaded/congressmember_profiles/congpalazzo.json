@@ -1,0 +1,120 @@
+{
+  "id": 299883942,
+  "id_str": "299883942",
+  "name": "Cong. Steven Palazzo",
+  "screen_name": "CongPalazzo",
+  "location": "Mississippi ",
+  "description": "I proudly represent the Fourth Congressional District of Mississippi. For more information on my work in Congress please visit http://t.co/Ue63OYLp.",
+  "url": "http://t.co/m7SGUgLrSj",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/m7SGUgLrSj",
+          "expanded_url": "http://palazzo.house.gov",
+          "display_url": "palazzo.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/Ue63OYLp",
+          "expanded_url": "http://www.palazzo.house.gov",
+          "display_url": "palazzo.house.gov",
+          "indices": [
+            127,
+            147
+          ]
+        }
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 6662,
+  "friends_count": 1628,
+  "listed_count": 421,
+  "created_at": "Mon May 16 20:52:25 +0000 2011",
+  "favourites_count": 54,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 1411,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 16:01:43 +0000 2015",
+    "id": 627147134035460096,
+    "id_str": "627147134035460096",
+    "text": "I joined my colleagues in sending a letter this week requesting to defund #PlannedParenthood immediately http://t.co/7UrtkMyxSt",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            74,
+            92
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/7UrtkMyxSt",
+          "expanded_url": "http://1.usa.gov/1MyMmwA",
+          "display_url": "1.usa.gov/1MyMmwA",
+          "indices": [
+            105,
+            127
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/254525024/brand.JPG",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/254525024/brand.JPG",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2812376870/fb6be72e5d310f1d696bd677ed65fd66_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2812376870/fb6be72e5d310f1d696bd677ed65fd66_normal.jpeg",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}
