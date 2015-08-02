@@ -1,0 +1,145 @@
+{
+  "id": 43910797,
+  "id_str": "43910797",
+  "name": "Sherrod Brown",
+  "screen_name": "SenSherrodBrown",
+  "location": "Ohio/Washington D.C.",
+  "description": "Office of United States Senator Sherrod Brown who is proud to serve Ohio.",
+  "url": "http://t.co/YX0sj7bkFG",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/YX0sj7bkFG",
+          "expanded_url": "http://brown.senate.gov",
+          "display_url": "brown.senate.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 48771,
+  "friends_count": 90,
+  "listed_count": 2437,
+  "created_at": "Mon Jun 01 16:07:45 +0000 2009",
+  "favourites_count": 2,
+  "utc_offset": -18000,
+  "time_zone": "Quito",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 1788,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Jul 30 19:20:26 +0000 2015",
+    "id": 626834755246403584,
+    "id_str": "626834755246403584",
+    "text": "For learning institutions, quality college education should matter more than profit. http://t.co/nztkbMpoXv http://t.co/0Oi2n1029W",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 19,
+    "favorite_count": 17,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/nztkbMpoXv",
+          "expanded_url": "http://www.brown.senate.gov/newsroom/press/release/sen-brown-introduces-bill-to-ban-colleges-from-spending-federal-financial-aid-dollars-on-marketing-and-recruiting",
+          "display_url": "brown.senate.gov/newsroom/press…",
+          "indices": [
+            85,
+            107
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 626834754529292289,
+          "id_str": "626834754529292289",
+          "indices": [
+            108,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/CLL241yWcAEAXB0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLL241yWcAEAXB0.jpg",
+          "url": "http://t.co/0Oi2n1029W",
+          "display_url": "pic.twitter.com/0Oi2n1029W",
+          "expanded_url": "http://twitter.com/SenSherrodBrown/status/626834755246403584/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 170,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "F1F2EA",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/96234831/SB_TwitterBackground.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/96234831/SB_TwitterBackground.jpg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/523158370333638657/cLmYIfYa_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/523158370333638657/cLmYIfYa_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/43910797/1397501269",
+  "profile_link_color": "1E4CA1",
+  "profile_sidebar_border_color": "598541",
+  "profile_sidebar_fill_color": "EBEAD9",
+  "profile_text_color": "663B12",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

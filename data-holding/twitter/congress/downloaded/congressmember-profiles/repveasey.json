@@ -1,0 +1,111 @@
+{
+  "id": 1074129612,
+  "id_str": "1074129612",
+  "name": "Rep. Marc Veasey",
+  "screen_name": "RepVeasey",
+  "location": "Dallas-Fort Worth, Texas",
+  "description": "Proudly representing Fort Worth-Dallas. Born and reared in the Metroplex. Husband, father and Dallas Cowboys fan. #TX33, #DFW",
+  "url": "http://t.co/MuCQE2uJdQ",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/MuCQE2uJdQ",
+          "expanded_url": "http://twittercounter.com/RepVeasey",
+          "display_url": "twittercounter.com/RepVeasey",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 5076,
+  "friends_count": 2719,
+  "listed_count": 353,
+  "created_at": "Wed Jan 09 15:49:27 +0000 2013",
+  "favourites_count": 547,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 1554,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Jul 30 18:09:44 +0000 2015",
+    "id": 626816965273849856,
+    "id_str": "626816965273849856",
+    "text": "Half of all Americans on #Medicare make less than $23,500/year. We need to keep its guarantee, not increase their costs #MedicareMedicaid50",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Medicare",
+          "indices": [
+            25,
+            34
+          ]
+        },
+        {
+          "text": "MedicareMedicaid50",
+          "indices": [
+            120,
+            139
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "022330",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/592749293687144450/0Y90-CoT_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/592749293687144450/0Y90-CoT_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074129612/1398714619",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "C0DFEC",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

@@ -1,0 +1,107 @@
+{
+  "id": 22509548,
+  "id_str": "22509548",
+  "name": "Darrell Issa",
+  "screen_name": "DarrellIssa",
+  "location": "Vista, CA & Washington, DC",
+  "description": "I work for CA-49 and I Chair the Subcommittee on Courts, Intellectual Property, and the Internet.  I greatly enjoy an #OPEN, accessible, & uncensored internet.",
+  "url": "http://t.co/L3qF1BVDjB",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/L3qF1BVDjB",
+          "expanded_url": "http://issa.house.gov",
+          "display_url": "issa.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 193834,
+  "friends_count": 35474,
+  "listed_count": 4863,
+  "created_at": "Mon Mar 02 17:39:00 +0000 2009",
+  "favourites_count": 897,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 19557,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Jul 30 21:11:30 +0000 2015",
+    "id": 626862707266985985,
+    "id_str": "626862707266985985",
+    "text": "Tom Brady has been punished more harshly for deflating footballs than John Koskinen has for misleading Congress: https://t.co/Dv8MuPXYdW",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 155,
+    "favorite_count": 108,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Dv8MuPXYdW",
+          "expanded_url": "https://youtu.be/xH-Z8U-j3_w",
+          "display_url": "youtu.be/xH-Z8U-j3_w",
+          "indices": [
+            113,
+            136
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "EBEBEB",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/784712716/7bdaba8bf85dbc35abbf4dc8fea3838f.png",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/784712716/7bdaba8bf85dbc35abbf4dc8fea3838f.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/454338555456663552/phM7MZu5_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/454338555456663552/phM7MZu5_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/22509548/1397664686",
+  "profile_link_color": "5A656B",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDFFCC",
+  "profile_text_color": "333333",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

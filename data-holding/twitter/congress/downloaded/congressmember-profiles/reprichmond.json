@@ -1,0 +1,143 @@
+{
+  "id": 267854863,
+  "id_str": "267854863",
+  "name": "Rep Cedric Richmond",
+  "screen_name": "RepRichmond",
+  "location": "",
+  "description": "Representing the 2nd Congressional District of Louisiana and the Who Dat Nation.",
+  "url": "http://t.co/SUcIB89W63",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/SUcIB89W63",
+          "expanded_url": "http://richmond.house.gov",
+          "display_url": "richmond.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 7371,
+  "friends_count": 760,
+  "listed_count": 437,
+  "created_at": "Thu Mar 17 17:30:45 +0000 2011",
+  "favourites_count": 163,
+  "utc_offset": -18000,
+  "time_zone": "Quito",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 1600,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Jul 30 20:23:08 +0000 2015",
+    "id": 626850533454823425,
+    "id_str": "626850533454823425",
+    "text": "Everyone deserves to live with economic security and dignity. That’s why I support #MedicareMedicaid50 http://t.co/mIeF0dcMku",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "MedicareMedicaid50",
+          "indices": [
+            83,
+            102
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 626850531793874944,
+          "id_str": "626850531793874944",
+          "indices": [
+            103,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/media/CLMFPMrWsAAwuVS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLMFPMrWsAAwuVS.jpg",
+          "url": "http://t.co/mIeF0dcMku",
+          "display_url": "pic.twitter.com/mIeF0dcMku",
+          "expanded_url": "http://twitter.com/RepRichmond/status/626850533454823425/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 659,
+              "h": 624,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 568,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 321,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/674891845/91d35ac118b9a00e9972453684caeb4b.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/674891845/91d35ac118b9a00e9972453684caeb4b.jpeg",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/615611063124373504/VQb-9ej2_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/615611063124373504/VQb-9ej2_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/267854863/1435584500",
+  "profile_link_color": "3B94D9",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

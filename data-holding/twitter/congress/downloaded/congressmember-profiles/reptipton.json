@@ -1,0 +1,116 @@
+{
+  "id": 242873057,
+  "id_str": "242873057",
+  "name": "Scott Tipton",
+  "screen_name": "RepTipton",
+  "location": "",
+  "description": "Representative of Colorado's 3rd Congressional District",
+  "url": "http://t.co/zWxC16Igvd",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/zWxC16Igvd",
+          "expanded_url": "http://tipton.house.gov/",
+          "display_url": "tipton.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 7674,
+  "friends_count": 1114,
+  "listed_count": 588,
+  "created_at": "Tue Jan 25 20:01:25 +0000 2011",
+  "favourites_count": 0,
+  "utc_offset": -10800,
+  "time_zone": "Atlantic Time (Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 1414,
+  "lang": "en",
+  "status": {
+    "created_at": "Wed Jul 29 21:12:05 +0000 2015",
+    "id": 626500463723159556,
+    "id_str": "626500463723159556",
+    "text": "Our Small Bank Exam Cycle Reform Act (H.R. 1553) passed out of @FinancialCmte w/ unanimous bipartisan support today: http://t.co/Zq5w9uxZsI",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "FinancialCmte",
+          "name": "Financial Services",
+          "id": 42924141,
+          "id_str": "42924141",
+          "indices": [
+            63,
+            77
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/Zq5w9uxZsI",
+          "expanded_url": "http://tipton.house.gov/press-release/committee-advances-tipton%E2%80%99s-community-bank-red-tape-relief-bill",
+          "display_url": "tipton.house.gov/press-release/…",
+          "indices": [
+            117,
+            139
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "D1C5B8",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/197303702/bg-three-copper.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/197303702/bg-three-copper.jpg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1237683385/2011-01-06_031pnn_normal.JPG",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237683385/2011-01-06_031pnn_normal.JPG",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/242873057/1406585544",
+  "profile_link_color": "CAD9E8",
+  "profile_sidebar_border_color": "D1C5B8",
+  "profile_sidebar_fill_color": "D1C5B8",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

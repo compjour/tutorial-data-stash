@@ -1,0 +1,136 @@
+{
+  "id": 278124059,
+  "id_str": "278124059",
+  "name": "Richard Blumenthal",
+  "screen_name": "SenBlumenthal",
+  "location": "Connecticut, USA",
+  "description": "Connecticut’s U.S. Senator",
+  "url": "http://t.co/MfF8W57FEu",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/MfF8W57FEu",
+          "expanded_url": "http://blumenthal.senate.gov/",
+          "display_url": "blumenthal.senate.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 26655,
+  "friends_count": 910,
+  "listed_count": 1208,
+  "created_at": "Wed Apr 06 17:13:53 +0000 2011",
+  "favourites_count": 264,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 5491,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 20:24:30 +0000 2015",
+    "id": 627213265551118336,
+    "id_str": "627213265551118336",
+    "text": "Proud to join w/ @SenatorMenendez, @CoryBooker &amp; @SenatorCardin on legislation to protect endangered species. http://t.co/VW0mr1gw0N",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 4,
+    "favorite_count": 9,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "SenatorMenendez",
+          "name": "Senator Bob Menendez",
+          "id": 18695134,
+          "id_str": "18695134",
+          "indices": [
+            17,
+            33
+          ]
+        },
+        {
+          "screen_name": "CoryBooker",
+          "name": "Cory Booker",
+          "id": 15808765,
+          "id_str": "15808765",
+          "indices": [
+            35,
+            46
+          ]
+        },
+        {
+          "screen_name": "SenatorCardin",
+          "name": "Senator Ben Cardin",
+          "id": 109071031,
+          "id_str": "109071031",
+          "indices": [
+            53,
+            67
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/VW0mr1gw0N",
+          "expanded_url": "http://1.usa.gov/1OFt4V1",
+          "display_url": "1.usa.gov/1OFt4V1",
+          "indices": [
+            114,
+            136
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "F6F0E1",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/700681397/7be6dec0c815f772c125569e158cc0bd.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/700681397/7be6dec0c815f772c125569e158cc0bd.jpeg",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/606128312499343360/MYkMczC8_normal.png",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/606128312499343360/MYkMczC8_normal.png",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/278124059/1400018850",
+  "profile_link_color": "0956A3",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "F2EDDA",
+  "profile_text_color": "111310",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

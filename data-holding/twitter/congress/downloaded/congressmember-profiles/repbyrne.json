@@ -1,0 +1,122 @@
+{
+  "id": 2253968388,
+  "id_str": "2253968388",
+  "name": "Rep. Bradley Byrne",
+  "screen_name": "RepByrne",
+  "location": "Southwest Alabama",
+  "description": "I am proud to represent Alabama's First Congressional District in the U.S. House of Representatives.",
+  "url": "http://t.co/u2pktSOk1E",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/u2pktSOk1E",
+          "expanded_url": "http://byrne.house.gov",
+          "display_url": "byrne.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 4814,
+  "friends_count": 2436,
+  "listed_count": 234,
+  "created_at": "Thu Dec 19 19:42:18 +0000 2013",
+  "favourites_count": 188,
+  "utc_offset": -10800,
+  "time_zone": "Atlantic Time (Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 4206,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 17:59:00 +0000 2015",
+    "id": 627176651512745985,
+    "id_str": "627176651512745985",
+    "text": "\"Obama Threatens to Veto #VAAccountability Act\" via @FreeBeacon http://t.co/WATu4A6olO",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 5,
+    "favorite_count": 4,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "VAAccountability",
+          "indices": [
+            25,
+            42
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "FreeBeacon",
+          "name": "Free Beacon",
+          "id": 455764741,
+          "id_str": "455764741",
+          "indices": [
+            52,
+            63
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/WATu4A6olO",
+          "expanded_url": "http://freebeacon.com/national-security/obama-threatens-to-veto-va-accountability-act/",
+          "display_url": "freebeacon.com/national-secur…",
+          "indices": [
+            64,
+            86
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "020A63",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000164718229/vpmANG24.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000164718229/vpmANG24.jpeg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/486875573621243904/k9gOpg-E_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/486875573621243904/k9gOpg-E_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2253968388/1436476540",
+  "profile_link_color": "FA0505",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

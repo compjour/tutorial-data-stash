@@ -1,0 +1,106 @@
+{
+  "id": 40302336,
+  "id_str": "40302336",
+  "name": "Congressman Nadler",
+  "screen_name": "RepJerryNadler",
+  "location": "New York, NY",
+  "description": "Representing parts of Manhattan and Brooklyn. I serve on the House Judiciary + Transportation & Infrastructure committees. Follow me at http://t.co/eAS0pRYbYu",
+  "url": "http://t.co/bZgLYCXMkK",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/bZgLYCXMkK",
+          "expanded_url": "http://nadler.house.gov",
+          "display_url": "nadler.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/eAS0pRYbYu",
+          "expanded_url": "http://www.facebook.com/CongressmanNadler",
+          "display_url": "facebook.com/CongressmanNad…",
+          "indices": [
+            136,
+            158
+          ]
+        }
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 8313,
+  "friends_count": 1157,
+  "listed_count": 562,
+  "created_at": "Fri May 15 18:37:39 +0000 2009",
+  "favourites_count": 20,
+  "utc_offset": -18000,
+  "time_zone": "Quito",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 1301,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 19:33:41 +0000 2015",
+    "id": 627200476459716608,
+    "id_str": "627200476459716608",
+    "text": "There is no excuse that can explain or excuse &amp; I am glad to see Israel’s leaders loudly condemn &amp; quickly punish those responsible. (2/2)",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 627199975412400128,
+    "in_reply_to_status_id_str": "627199975412400128",
+    "in_reply_to_user_id": 40302336,
+    "in_reply_to_user_id_str": "40302336",
+    "in_reply_to_screen_name": "RepJerryNadler",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/753664421/cf590638abb54fc2e5f01ec58b6c6c40.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/753664421/cf590638abb54fc2e5f01ec58b6c6c40.jpeg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000675065729/bbd633a57e8333412d6147bbc077427d_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000675065729/bbd633a57e8333412d6147bbc077427d_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/40302336/1436901568",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

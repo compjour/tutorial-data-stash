@@ -1,0 +1,192 @@
+{
+  "id": 20467163,
+  "id_str": "20467163",
+  "name": "Rep. Vern Buchanan",
+  "screen_name": "VernBuchanan",
+  "location": "Florida's 16th District",
+  "description": "U.S. Congressman",
+  "url": "http://t.co/Uq79SDySq2",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/Uq79SDySq2",
+          "expanded_url": "http://buchanan.house.gov/",
+          "display_url": "buchanan.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 16188,
+  "friends_count": 11166,
+  "listed_count": 1093,
+  "created_at": "Mon Feb 09 21:05:19 +0000 2009",
+  "favourites_count": 3,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 1855,
+  "lang": "en",
+  "status": {
+    "created_at": "Wed Jul 29 20:23:49 +0000 2015",
+    "id": 626488320328105984,
+    "id_str": "626488320328105984",
+    "text": "RT @ConcernedVets: The #VAAccountabilityAct will help employees live up to the standard they have set for themselves. -@VernBuchanan http:/…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jul 29 20:06:00 +0000 2015",
+      "id": 626483836759609344,
+      "id_str": "626483836759609344",
+      "text": "The #VAAccountabilityAct will help employees live up to the standard they have set for themselves. -@VernBuchanan http://t.co/BUE7bBuKmS",
+      "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 9,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "VAAccountabilityAct",
+            "indices": [
+              4,
+              24
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "VernBuchanan",
+            "name": "Rep. Vern Buchanan",
+            "id": 20467163,
+            "id_str": "20467163",
+            "indices": [
+              100,
+              113
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/BUE7bBuKmS",
+            "expanded_url": "http://washex.am/1h5uyNO",
+            "display_url": "washex.am/1h5uyNO",
+            "indices": [
+              114,
+              136
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "VAAccountabilityAct",
+          "indices": [
+            23,
+            43
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ConcernedVets",
+          "name": "Concerned Vets",
+          "id": 540122045,
+          "id_str": "540122045",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "VernBuchanan",
+          "name": "Rep. Vern Buchanan",
+          "id": 20467163,
+          "id_str": "20467163",
+          "indices": [
+            119,
+            132
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/BUE7bBuKmS",
+          "expanded_url": "http://washex.am/1h5uyNO",
+          "display_url": "washex.am/1h5uyNO",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "FFFFFF",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/196361282/bald_eagle_head_and_american_flag1.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/196361282/bald_eagle_head_and_american_flag1.jpg",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1734256376/headshot_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1734256376/headshot_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/20467163/1423601951",
+  "profile_link_color": "000AB4",
+  "profile_sidebar_border_color": "050505",
+  "profile_sidebar_fill_color": "D4C8C8",
+  "profile_text_color": "000000",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

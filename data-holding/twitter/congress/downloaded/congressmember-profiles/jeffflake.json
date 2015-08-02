@@ -1,0 +1,109 @@
+{
+  "id": 16056306,
+  "id_str": "16056306",
+  "name": "Jeff Flake",
+  "screen_name": "JeffFlake",
+  "location": "Mesa, AZ",
+  "description": "Senator from Arizona",
+  "url": null,
+  "entities": {
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 26651,
+  "friends_count": 206,
+  "listed_count": 1798,
+  "created_at": "Sat Aug 30 17:00:58 +0000 2008",
+  "favourites_count": 13,
+  "utc_offset": -18000,
+  "time_zone": "Quito",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 1336,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 21:28:11 +0000 2015",
+    "id": 627229293966262272,
+    "id_str": "627229293966262272",
+    "text": "Long time coming, but glad @HillaryClinton is no longer viewing #Cuba thru \"outdated Cold War lens\" Welcome aboard! https://t.co/Hijhqr2mSY",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 12,
+    "favorite_count": 6,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Cuba",
+          "indices": [
+            64,
+            69
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "HillaryClinton",
+          "name": "Hillary Clinton",
+          "id": 1339835893,
+          "id_str": "1339835893",
+          "indices": [
+            27,
+            42
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Hijhqr2mSY",
+          "expanded_url": "https://www.youtube.com/watch?v=g7kaF2iTtXA",
+          "display_url": "youtube.com/watch?v=g7kaF2…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3088681915/62adc90774fc399d3722e3df422994ba_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3088681915/62adc90774fc399d3722e3df422994ba_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/16056306/1363359251",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

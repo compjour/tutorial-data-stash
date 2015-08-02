@@ -1,0 +1,129 @@
+{
+  "id": 75364211,
+  "id_str": "75364211",
+  "name": "Pat Roberts",
+  "screen_name": "SenPatRoberts",
+  "location": "Kansas and Washington, DC",
+  "description": "United States Senator from Kansas",
+  "url": "http://t.co/hroyLNRzED",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/hroyLNRzED",
+          "expanded_url": "http://roberts.senate.gov",
+          "display_url": "roberts.senate.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 16846,
+  "friends_count": 743,
+  "listed_count": 1131,
+  "created_at": "Fri Sep 18 19:34:56 +0000 2009",
+  "favourites_count": 37,
+  "utc_offset": -18000,
+  "time_zone": "Central Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 2042,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 20:20:58 +0000 2015",
+    "id": 627212379504410624,
+    "id_str": "627212379504410624",
+    "text": "Most pleasant short stop @RoyBlunt, but I must immediately return to the #Big12 Promised Land. #EMAW http://t.co/GLdmDBNInS",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 627193836448710656,
+    "in_reply_to_status_id_str": "627193836448710656",
+    "in_reply_to_user_id": 21269970,
+    "in_reply_to_user_id_str": "21269970",
+    "in_reply_to_screen_name": "RoyBlunt",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 6,
+    "favorite_count": 4,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Big12",
+          "indices": [
+            73,
+            79
+          ]
+        },
+        {
+          "text": "EMAW",
+          "indices": [
+            95,
+            100
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "RoyBlunt",
+          "name": "Senator Roy Blunt",
+          "id": 21269970,
+          "id_str": "21269970",
+          "indices": [
+            25,
+            34
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/GLdmDBNInS",
+          "expanded_url": "http://twitter.com/SenPatRoberts/status/627212379504410624/photo/1",
+          "display_url": "pic.twitter.com/GLdmDBNInS",
+          "indices": [
+            101,
+            123
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "022330",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/149810940/roberts_twitter2.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/149810940/roberts_twitter2.jpg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/607930571323523074/RMBVhfkH_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/607930571323523074/RMBVhfkH_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/75364211/1436984767",
+  "profile_link_color": "8D1616",
+  "profile_sidebar_border_color": "CBCAC0",
+  "profile_sidebar_fill_color": "E7E6DB",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

@@ -1,0 +1,152 @@
+{
+  "id": 236279233,
+  "id_str": "236279233",
+  "name": "Rep. Norma Torres",
+  "screen_name": "NormaJTorres",
+  "location": "",
+  "description": "U.S. Representative for California's 35th District",
+  "url": "http://t.co/gGnDS8hiES",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/gGnDS8hiES",
+          "expanded_url": "http://torres.house.gov",
+          "display_url": "torres.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 2584,
+  "friends_count": 614,
+  "listed_count": 180,
+  "created_at": "Mon Jan 10 06:30:14 +0000 2011",
+  "favourites_count": 970,
+  "utc_offset": -25200,
+  "time_zone": "Pacific Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 2660,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 18:25:06 +0000 2015",
+    "id": 627183218282795009,
+    "id_str": "627183218282795009",
+    "text": "#copper thieves hit my neighborhood last night! @CityofPomona http://t.co/L0ejJchkd0",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "copper",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "CityofPomona",
+          "name": "City of Pomona Ca",
+          "id": 48145410,
+          "id_str": "48145410",
+          "indices": [
+            48,
+            61
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 627183210259087360,
+          "id_str": "627183210259087360",
+          "indices": [
+            62,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/CLQzzoiVAAAYHif.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLQzzoiVAAAYHif.jpg",
+          "url": "http://t.co/L0ejJchkd0",
+          "display_url": "pic.twitter.com/L0ejJchkd0",
+          "expanded_url": "http://twitter.com/NormaJTorres/status/627183218282795009/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 453,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 800,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "EBEBEB",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/553643610084610048/6hiqkvqW_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/553643610084610048/6hiqkvqW_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/236279233/1423579802",
+  "profile_link_color": "990000",
+  "profile_sidebar_border_color": "DFDFDF",
+  "profile_sidebar_fill_color": "F3F3F3",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

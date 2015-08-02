@@ -1,0 +1,158 @@
+{
+  "id": 2914163523,
+  "id_str": "2914163523",
+  "name": "Barry Loudermilk",
+  "screen_name": "RepLoudermilk",
+  "location": "",
+  "description": "Rep. Barry Loudermilk represents Georgia's 11th Congressional District, which includes all of Bartow and Cherokee counties and portions of Cobb and Fulton.",
+  "url": "https://t.co/FWd4vPQ7Po",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/FWd4vPQ7Po",
+          "expanded_url": "https://loudermilk.house.gov/",
+          "display_url": "loudermilk.house.gov",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 1434,
+  "friends_count": 256,
+  "listed_count": 84,
+  "created_at": "Wed Dec 10 18:53:17 +0000 2014",
+  "favourites_count": 127,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 328,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Jul 30 17:23:20 +0000 2015",
+    "id": 626805287677263872,
+    "id_str": "626805287677263872",
+    "text": "Today I introduced legislation to add historically significant property to @KennesawNPS. Read more: http://t.co/imEy7IbQp3 #gapol",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "01fbe706f872cb32",
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "place_type": "city",
+      "name": "Washington",
+      "full_name": "Washington, DC",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [
+
+      ],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+      }
+    },
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "gapol",
+          "indices": [
+            123,
+            129
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "KennesawNPS",
+          "name": "KennesawMountain NBP",
+          "id": 86968106,
+          "id_str": "86968106",
+          "indices": [
+            75,
+            87
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/imEy7IbQp3",
+          "expanded_url": "http://loudermilk.house.gov/news/documentsingle.aspx?DocumentID=320",
+          "display_url": "loudermilk.house.gov/news/documents…",
+          "indices": [
+            100,
+            122
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/578949791146725376/LSA2VpBg_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/578949791146725376/LSA2VpBg_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2914163523/1426885150",
+  "profile_link_color": "3B94D9",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

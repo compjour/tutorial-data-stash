@@ -1,0 +1,107 @@
+{
+  "id": 235190657,
+  "id_str": "235190657",
+  "name": "Chuck Fleischmann",
+  "screen_name": "RepChuck",
+  "location": "Washington, D.C./TN-03",
+  "description": "My official House office Twitter account. I work for the people of TN-03.",
+  "url": "http://t.co/BanS9JzDxx",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/BanS9JzDxx",
+          "expanded_url": "http://fleischmann.house.gov",
+          "display_url": "fleischmann.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 6430,
+  "friends_count": 624,
+  "listed_count": 515,
+  "created_at": "Fri Jan 07 15:46:29 +0000 2011",
+  "favourites_count": 0,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 1375,
+  "lang": "en",
+  "status": {
+    "created_at": "Tue Jul 28 15:08:45 +0000 2015",
+    "id": 626046642135912448,
+    "id_str": "626046642135912448",
+    "text": "I introduced legislation expressing that the men lost or wounded in the Chattanooga attack deserve the Purple Heart. http://t.co/WKDxfrUP0w",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/WKDxfrUP0w",
+          "expanded_url": "http://www.timesfreepress.com/news/local/story/2015/jul/28/fleischmann-announces-bill-award-purple-heart/316805/",
+          "display_url": "timesfreepress.com/news/local/sto…",
+          "indices": [
+            117,
+            139
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/598904554151747584/6L6WvnIJ.png",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/598904554151747584/6L6WvnIJ.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/598906636695048192/qph6Qq5o_normal.png",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/598906636695048192/qph6Qq5o_normal.png",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/235190657/1431625417",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

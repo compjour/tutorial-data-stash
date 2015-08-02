@@ -1,0 +1,155 @@
+{
+  "id": 13491312,
+  "id_str": "13491312",
+  "name": "Congressman Tim Ryan",
+  "screen_name": "RepTimRyan",
+  "location": "Warren, OH",
+  "description": "Congressman Tim Ryan, proudly serving Ohio's 13th District in the United States Congress",
+  "url": "http://t.co/AfCE33OzuX",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/AfCE33OzuX",
+          "expanded_url": "http://timryan.house.gov",
+          "display_url": "timryan.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 23581,
+  "friends_count": 1814,
+  "listed_count": 1264,
+  "created_at": "Thu Feb 14 21:57:32 +0000 2008",
+  "favourites_count": 46,
+  "utc_offset": -18000,
+  "time_zone": "Central Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 2558,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 18:41:44 +0000 2015",
+    "id": 627187406022774785,
+    "id_str": "627187406022774785",
+    "text": "Brady was excited to join me today at the Niles Fire Department! @ Niles Fire Department/ Niles Fire… https://t.co/HkyVapPWM4",
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        41.1785583,
+        -80.7649231
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -80.7649231,
+        41.1785583
+      ]
+    },
+    "place": {
+      "id": "de89d25be7d37a11",
+      "url": "https://api.twitter.com/1.1/geo/id/de89d25be7d37a11.json",
+      "place_type": "city",
+      "name": "Niles",
+      "full_name": "Niles, OH",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [
+
+      ],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.811321,
+              41.155863
+            ],
+            [
+              -80.7075098,
+              41.155863
+            ],
+            [
+              -80.7075098,
+              41.2258701
+            ],
+            [
+              -80.811321,
+              41.2258701
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+      }
+    },
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/HkyVapPWM4",
+          "expanded_url": "https://instagram.com/p/5z5rQJhR4U/",
+          "display_url": "instagram.com/p/5z5rQJhR4U/",
+          "indices": [
+            102,
+            125
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "AAD6FA",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/441320622895816704/es-oUckd.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/441320622895816704/es-oUckd.jpeg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/593535082867990528/lFLQ8QrX_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/593535082867990528/lFLQ8QrX_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/13491312/1435589954",
+  "profile_link_color": "D90D08",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "2465AE",
+  "profile_text_color": "0A0A0A",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

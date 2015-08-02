@@ -1,0 +1,180 @@
+{
+  "id": 2914571740,
+  "id_str": "2914571740",
+  "name": "Mike Bishop",
+  "screen_name": "RepMikeBishop",
+  "location": "Rochester, MI",
+  "description": "Official account for Congressman Mike Bishop #MI08. Serving on @HouseJudiciary and @EdWorkforce Committees.",
+  "url": "http://t.co/cJYobAueyX",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/cJYobAueyX",
+          "expanded_url": "http://mikebishop.house.gov",
+          "display_url": "mikebishop.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 1544,
+  "friends_count": 330,
+  "listed_count": 86,
+  "created_at": "Wed Dec 10 22:19:34 +0000 2014",
+  "favourites_count": 76,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 383,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 18:33:54 +0000 2015",
+    "id": 627185431742910464,
+    "id_str": "627185431742910464",
+    "text": "RT @RiponAdvance: Bishop cheers House passage of bill targeting federal regulatory powers http://t.co/nstINwomsG @MikeBishopMI",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jul 31 12:57:27 +0000 2015",
+      "id": 627100761554448384,
+      "id_str": "627100761554448384",
+      "text": "Bishop cheers House passage of bill targeting federal regulatory powers http://t.co/nstINwomsG @MikeBishopMI",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "MikeBishopMI",
+            "name": "Mike Bishop",
+            "id": 37945547,
+            "id_str": "37945547",
+            "indices": [
+              95,
+              108
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/nstINwomsG",
+            "expanded_url": "http://riponadvance.com/stories/510631022-bishop-cheers-house-passage-of-bill-targeting-federal-regulatory-powers",
+            "display_url": "riponadvance.com/stories/510631…",
+            "indices": [
+              72,
+              94
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "RiponAdvance",
+          "name": "Ripon Advance",
+          "id": 1613575663,
+          "id_str": "1613575663",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "MikeBishopMI",
+          "name": "Mike Bishop",
+          "id": 37945547,
+          "id_str": "37945547",
+          "indices": [
+            113,
+            126
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/nstINwomsG",
+          "expanded_url": "http://riponadvance.com/stories/510631022-bishop-cheers-house-passage-of-bill-targeting-federal-regulatory-powers",
+          "display_url": "riponadvance.com/stories/510631…",
+          "indices": [
+            90,
+            112
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/624277709573750784/YjA5LZXV_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/624277709573750784/YjA5LZXV_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2914571740/1420583102",
+  "profile_link_color": "3B94D9",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

@@ -1,0 +1,272 @@
+{
+  "id": 18166778,
+  "id_str": "18166778",
+  "name": "Rep. Jim Jordan",
+  "screen_name": "Jim_Jordan",
+  "location": "Washington, D.C. ",
+  "description": "Proudly serving Ohio's beautiful fourth district.",
+  "url": "http://t.co/c12aOiA0EU",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/c12aOiA0EU",
+          "expanded_url": "http://jordan.house.gov/",
+          "display_url": "jordan.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 21013,
+  "friends_count": 5251,
+  "listed_count": 1265,
+  "created_at": "Tue Dec 16 17:20:24 +0000 2008",
+  "favourites_count": 0,
+  "utc_offset": -18000,
+  "time_zone": "Central Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 1461,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Jul 30 20:44:02 +0000 2015",
+    "id": 626855792856170496,
+    "id_str": "626855792856170496",
+    "text": "RT @Tennessean: .@repdianeblack writes: #PlannedParenthood is ultimate deception to women, families, taxpayers http://t.co/ujVyO5BBnz http:…",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Thu Jul 30 16:16:37 +0000 2015",
+      "id": 626788495483346945,
+      "id_str": "626788495483346945",
+      "text": ".@repdianeblack writes: #PlannedParenthood is ultimate deception to women, families, taxpayers http://t.co/ujVyO5BBnz http://t.co/sLgG5Og7Yd",
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 29,
+      "favorite_count": 32,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "PlannedParenthood",
+            "indices": [
+              24,
+              42
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "RepDianeBlack",
+            "name": "Diane Black",
+            "id": 110545675,
+            "id_str": "110545675",
+            "indices": [
+              1,
+              15
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/ujVyO5BBnz",
+            "expanded_url": "http://tnne.ws/1JU2HqP",
+            "display_url": "tnne.ws/1JU2HqP",
+            "indices": [
+              95,
+              117
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 626788495135129600,
+            "id_str": "626788495135129600",
+            "indices": [
+              118,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/CLLM0MHUwAAbdTS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CLLM0MHUwAAbdTS.jpg",
+            "url": "http://t.co/sLgG5Og7Yd",
+            "display_url": "pic.twitter.com/sLgG5Og7Yd",
+            "expanded_url": "http://twitter.com/Tennessean/status/626788495483346945/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 453,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 534,
+                "h": 712,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 534,
+                "h": 712,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 29,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            40,
+            58
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Tennessean",
+          "name": "The Tennessean",
+          "id": 16639736,
+          "id_str": "16639736",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "screen_name": "RepDianeBlack",
+          "name": "Diane Black",
+          "id": 110545675,
+          "id_str": "110545675",
+          "indices": [
+            17,
+            31
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/ujVyO5BBnz",
+          "expanded_url": "http://tnne.ws/1JU2HqP",
+          "display_url": "tnne.ws/1JU2HqP",
+          "indices": [
+            111,
+            133
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 626788495135129600,
+          "id_str": "626788495135129600",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CLLM0MHUwAAbdTS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLLM0MHUwAAbdTS.jpg",
+          "url": "http://t.co/sLgG5Og7Yd",
+          "display_url": "pic.twitter.com/sLgG5Og7Yd",
+          "expanded_url": "http://twitter.com/Tennessean/status/626788495483346945/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 453,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 534,
+              "h": 712,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 534,
+              "h": 712,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 626788495483346945,
+          "source_status_id_str": "626788495483346945",
+          "source_user_id": 16639736,
+          "source_user_id_str": "16639736"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "FFFFFF",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3627543/american-flag-2a.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3627543/american-flag-2a.jpg",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/596012379231617025/TtrAXbnA_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/596012379231617025/TtrAXbnA_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/18166778/1406042839",
+  "profile_link_color": "4F90DB",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "BA0D1F",
+  "profile_text_color": "01050D",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

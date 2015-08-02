@@ -1,0 +1,158 @@
+{
+  "id": 63169388,
+  "id_str": "63169388",
+  "name": "Louise Slaughter",
+  "screen_name": "louiseslaughter",
+  "location": "NY-25",
+  "description": "Honored to serve the people of Rochester and Monroe County, NY. Only microbiologist in Congress and Ranking Member of the House Committee on Rules.",
+  "url": "http://t.co/6JvrOBwYzn",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/6JvrOBwYzn",
+          "expanded_url": "http://www.louise.house.gov",
+          "display_url": "louise.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 11444,
+  "friends_count": 1446,
+  "listed_count": 841,
+  "created_at": "Wed Aug 05 15:53:07 +0000 2009",
+  "favourites_count": 85,
+  "utc_offset": -18000,
+  "time_zone": "Quito",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 1965,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 19:47:37 +0000 2015",
+    "id": 627203983229210625,
+    "id_str": "627203983229210625",
+    "text": "So proud to have led the great team effort to bring the nat’l #photonics institute to #ROC! http://t.co/15y4umuVKI http://t.co/YMhErzR6fj",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "photonics",
+          "indices": [
+            62,
+            72
+          ]
+        },
+        {
+          "text": "ROC",
+          "indices": [
+            86,
+            90
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/15y4umuVKI",
+          "expanded_url": "http://on.fb.me/1JB4xks",
+          "display_url": "on.fb.me/1JB4xks",
+          "indices": [
+            92,
+            114
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 627203982323138560,
+          "id_str": "627203982323138560",
+          "indices": [
+            115,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/CLRGsugUwAA3m2e.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLRGsugUwAA3m2e.jpg",
+          "url": "http://t.co/YMhErzR6fj",
+          "display_url": "pic.twitter.com/YMhErzR6fj",
+          "expanded_url": "http://twitter.com/louiseslaughter/status/627203983229210625/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 185,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 559,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 327,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "1C2232",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/730145860/20a2bc0e22d19592d83d43a246e1acff.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/730145860/20a2bc0e22d19592d83d43a246e1acff.jpeg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/474307315772817408/fG7xA9eC_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/474307315772817408/fG7xA9eC_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/63169388/1401918666",
+  "profile_link_color": "DC5322",
+  "profile_sidebar_border_color": "9D611B",
+  "profile_sidebar_fill_color": "FFFFFF",
+  "profile_text_color": "B98039",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

@@ -1,0 +1,372 @@
+{
+  "id": 22831059,
+  "id_str": "22831059",
+  "name": "Rep. Cynthia Lummis",
+  "screen_name": "CynthiaLummis",
+  "location": "Wyoming and Washington D.C.",
+  "description": "Proud to represent the people of Wyoming in the U.S. House of Representatives.",
+  "url": "http://t.co/bSPiTCeFvE",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/bSPiTCeFvE",
+          "expanded_url": "http://lummis.house.gov",
+          "display_url": "lummis.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 11515,
+  "friends_count": 6261,
+  "listed_count": 932,
+  "created_at": "Wed Mar 04 20:44:59 +0000 2009",
+  "favourites_count": 1,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 1375,
+  "lang": "en",
+  "status": {
+    "created_at": "Wed Jul 22 23:01:48 +0000 2015",
+    "id": 623991362388627456,
+    "id_str": "623991362388627456",
+    "text": "RT @wycuadvocates: #hikethehill #theCUway - #creditunion advocates meeting w/ @CynthiaLummis @mwcua @CUNAadvocacy http://t.co/1Fb1HHtbzu",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jul 22 20:35:44 +0000 2015",
+      "id": 623954603529367552,
+      "id_str": "623954603529367552",
+      "text": "#hikethehill #theCUway - #creditunion advocates meeting w/ @CynthiaLummis @mwcua @CUNAadvocacy http://t.co/1Fb1HHtbzu",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 623914396004274176,
+      "in_reply_to_status_id_str": "623914396004274176",
+      "in_reply_to_user_id": 153067964,
+      "in_reply_to_user_id_str": "153067964",
+      "in_reply_to_screen_name": "wycuadvocates",
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          38.89057922,
+          -77.00346375
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -77.00346375,
+          38.89057922
+        ]
+      },
+      "place": {
+        "id": "05fe3c3f4a709dfd",
+        "url": "https://api.twitter.com/1.1/geo/id/05fe3c3f4a709dfd.json",
+        "place_type": "neighborhood",
+        "name": "Capitol Hill",
+        "full_name": "Capitol Hill, Washington",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -77.0152684,
+                38.877324
+              ],
+              [
+                -76.985432,
+                38.877324
+              ],
+              [
+                -76.985432,
+                38.8973988
+              ],
+              [
+                -77.0152684,
+                38.8973988
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "retweet_count": 4,
+      "favorite_count": 3,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "hikethehill",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "text": "theCUway",
+            "indices": [
+              13,
+              22
+            ]
+          },
+          {
+            "text": "creditunion",
+            "indices": [
+              25,
+              37
+            ]
+          }
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "CynthiaLummis",
+            "name": "Rep. Cynthia Lummis",
+            "id": 22831059,
+            "id_str": "22831059",
+            "indices": [
+              59,
+              73
+            ]
+          },
+          {
+            "screen_name": "mwcua",
+            "name": "Mountain West CUA",
+            "id": 270486839,
+            "id_str": "270486839",
+            "indices": [
+              74,
+              80
+            ]
+          },
+          {
+            "screen_name": "CUNAadvocacy",
+            "name": "CUNA Advocacy",
+            "id": 65453528,
+            "id_str": "65453528",
+            "indices": [
+              81,
+              94
+            ]
+          }
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 623954592888258560,
+            "id_str": "623954592888258560",
+            "indices": [
+              95,
+              117
+            ],
+            "media_url": "http://pbs.twimg.com/media/CKi7ZXkUAAA379u.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CKi7ZXkUAAA379u.jpg",
+            "url": "http://t.co/1Fb1HHtbzu",
+            "display_url": "pic.twitter.com/1Fb1HHtbzu",
+            "expanded_url": "http://twitter.com/wycuadvocates/status/623954603529367552/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 852,
+                "h": 640,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "hikethehill",
+          "indices": [
+            19,
+            31
+          ]
+        },
+        {
+          "text": "theCUway",
+          "indices": [
+            32,
+            41
+          ]
+        },
+        {
+          "text": "creditunion",
+          "indices": [
+            44,
+            56
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "wycuadvocates",
+          "name": "Wyoming CU Advocates",
+          "id": 153067964,
+          "id_str": "153067964",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "screen_name": "CynthiaLummis",
+          "name": "Rep. Cynthia Lummis",
+          "id": 22831059,
+          "id_str": "22831059",
+          "indices": [
+            78,
+            92
+          ]
+        },
+        {
+          "screen_name": "mwcua",
+          "name": "Mountain West CUA",
+          "id": 270486839,
+          "id_str": "270486839",
+          "indices": [
+            93,
+            99
+          ]
+        },
+        {
+          "screen_name": "CUNAadvocacy",
+          "name": "CUNA Advocacy",
+          "id": 65453528,
+          "id_str": "65453528",
+          "indices": [
+            100,
+            113
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 623954592888258560,
+          "id_str": "623954592888258560",
+          "indices": [
+            114,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/CKi7ZXkUAAA379u.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CKi7ZXkUAAA379u.jpg",
+          "url": "http://t.co/1Fb1HHtbzu",
+          "display_url": "pic.twitter.com/1Fb1HHtbzu",
+          "expanded_url": "http://twitter.com/wycuadvocates/status/623954603529367552/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 852,
+              "h": 640,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 623954603529367552,
+          "source_status_id_str": "623954603529367552",
+          "source_user_id": 153067964,
+          "source_user_id_str": "153067964"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "8695B6",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/131775169/mqmountainlake.br.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/131775169/mqmountainlake.br.jpg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/87805738/Official_Photo_-_Compressed_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/87805738/Official_Photo_-_Compressed_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/22831059/1425578643",
+  "profile_link_color": "2665C0",
+  "profile_sidebar_border_color": "2665C0",
+  "profile_sidebar_fill_color": "7BB96E",
+  "profile_text_color": "000000",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

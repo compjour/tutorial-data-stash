@@ -1,0 +1,115 @@
+{
+  "id": 24913074,
+  "id_str": "24913074",
+  "name": "Jackie Speier",
+  "screen_name": "RepSpeier",
+  "location": "",
+  "description": "Represents California's 14th Congressional District. House Armed Services Committee, House Permanent Select Committee on Intelligence.  https://t.co/gGH33BzCXx",
+  "url": "http://t.co/riEFCSOgog",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/riEFCSOgog",
+          "expanded_url": "http://speier.house.gov",
+          "display_url": "speier.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "https://t.co/gGH33BzCXx",
+          "expanded_url": "https://goo.gl/l7uFLm",
+          "display_url": "goo.gl/l7uFLm",
+          "indices": [
+            136,
+            159
+          ]
+        }
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 20422,
+  "friends_count": 22389,
+  "listed_count": 1094,
+  "created_at": "Tue Mar 17 17:02:38 +0000 2009",
+  "favourites_count": 6,
+  "utc_offset": -18000,
+  "time_zone": "Quito",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 2468,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 19:43:45 +0000 2015",
+    "id": 627203013669724160,
+    "id_str": "627203013669724160",
+    "text": "LCS Anti-Sub Warfare Package Too Heavy https://t.co/RluGE7KDKQ",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RluGE7KDKQ",
+          "expanded_url": "https://shar.es/1sMAEH",
+          "display_url": "shar.es/1sMAEH",
+          "indices": [
+            39,
+            62
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/582638025634516992/ISzkALXv_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/582638025634516992/ISzkALXv_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/24913074/1433270400",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

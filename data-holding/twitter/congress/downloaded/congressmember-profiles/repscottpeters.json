@@ -1,0 +1,107 @@
+{
+  "id": 1135486501,
+  "id_str": "1135486501",
+  "name": "Rep. Scott Peters",
+  "screen_name": "RepScottPeters",
+  "location": "San Diego, Poway, Coronado",
+  "description": "Serving #CA52 / Armed Services & Judiciary Committees / @HouseNewDems / Innovation / Science / Environment & Climate / Military / Vets / Border / Urbanism",
+  "url": "http://t.co/IHSIVXNojp",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/IHSIVXNojp",
+          "expanded_url": "http://scottpeters.house.gov",
+          "display_url": "scottpeters.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 5132,
+  "friends_count": 763,
+  "listed_count": 374,
+  "created_at": "Wed Jan 30 23:28:14 +0000 2013",
+  "favourites_count": 126,
+  "utc_offset": -25200,
+  "time_zone": "Arizona",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 3573,
+  "lang": "en",
+  "status": {
+    "created_at": "Sat Aug 01 01:03:05 +0000 2015",
+    "id": 627283373891850241,
+    "id_str": "627283373891850241",
+    "text": "Check out new page on our website to hear from constituents about how we helped them, learn about services we offer. http://t.co/nD8Z069OGt",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 5,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/nD8Z069OGt",
+          "expanded_url": "http://1.usa.gov/1M1rEXa",
+          "display_url": "1.usa.gov/1M1rEXa",
+          "indices": [
+            117,
+            139
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000026053789/b4498dddb7e8c0f57999bdb96e2a1de4.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000026053789/b4498dddb7e8c0f57999bdb96e2a1de4.jpeg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/593412213693485058/FKIBIZGV_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/593412213693485058/FKIBIZGV_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1135486501/1435600399",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

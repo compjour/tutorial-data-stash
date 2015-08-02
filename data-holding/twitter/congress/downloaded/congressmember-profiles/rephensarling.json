@@ -1,0 +1,128 @@
+{
+  "id": 18566912,
+  "id_str": "18566912",
+  "name": "Jeb Hensarling",
+  "screen_name": "RepHensarling",
+  "location": "Washington, D.C.",
+  "description": "Fighting to control spending & tax increases while advancing the principles of family, free enterprise, and freedom.",
+  "url": "http://t.co/N8cPbQA9ZA",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/N8cPbQA9ZA",
+          "expanded_url": "http://hensarling.house.gov/",
+          "display_url": "hensarling.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 12674,
+  "friends_count": 768,
+  "listed_count": 811,
+  "created_at": "Fri Jan 02 23:08:57 +0000 2009",
+  "favourites_count": 20,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 636,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 24 14:39:53 +0000 2015",
+    "id": 624589825325162496,
+    "id_str": "624589825325162496",
+    "text": "ICYMI: \"Raising #ExIm From the Dead\" http://t.co/h3LHl7lNWr @WSJ  #EndExIm",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ExIm",
+          "indices": [
+            16,
+            21
+          ]
+        },
+        {
+          "text": "EndExIm",
+          "indices": [
+            66,
+            74
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "WSJ",
+          "name": "Wall Street Journal",
+          "id": 3108351,
+          "id_str": "3108351",
+          "indices": [
+            60,
+            64
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/h3LHl7lNWr",
+          "expanded_url": "http://goo.gl/Q10nqo",
+          "display_url": "goo.gl/Q10nqo",
+          "indices": [
+            37,
+            59
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "1F394D",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/115561868/x49f5de25fd6bb6cf3f4ac23e32a7818.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/115561868/x49f5de25fd6bb6cf3f4ac23e32a7818.jpg",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/563370002922098688/cIOuMZIT_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/563370002922098688/cIOuMZIT_normal.jpeg",
+  "profile_link_color": "70B370",
+  "profile_sidebar_border_color": "ABCC78",
+  "profile_sidebar_fill_color": "27825C",
+  "profile_text_color": "1F0333",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

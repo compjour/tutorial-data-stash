@@ -1,0 +1,104 @@
+{
+  "id": 241207373,
+  "id_str": "241207373",
+  "name": "Frank LoBiondo",
+  "screen_name": "RepLoBiondo",
+  "location": "#SouthJersey",
+  "description": "Congressman proudly representing New Jersey's 2nd District. Chairman of House Aviation Subcommittee & CIA Subcommittee",
+  "url": "http://t.co/eXru2mhvIf",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/eXru2mhvIf",
+          "expanded_url": "http://www.lobiondo.house.gov",
+          "display_url": "lobiondo.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 6540,
+  "friends_count": 211,
+  "listed_count": 494,
+  "created_at": "Fri Jan 21 18:28:47 +0000 2011",
+  "favourites_count": 9,
+  "utc_offset": -10800,
+  "time_zone": "Atlantic Time (Canada)",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 2400,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 11:34:10 +0000 2015",
+    "id": 627079804513320960,
+    "id_str": "627079804513320960",
+    "text": "Morning #SouthJersey - let's have a productive Friday and a GREAT weekend!",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SouthJersey",
+          "indices": [
+            8,
+            20
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/639763527/rmww49dpyi64fexbqlyh.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/639763527/rmww49dpyi64fexbqlyh.jpeg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/423483413945778176/W_md9SFz_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/423483413945778176/W_md9SFz_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/241207373/1414343407",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

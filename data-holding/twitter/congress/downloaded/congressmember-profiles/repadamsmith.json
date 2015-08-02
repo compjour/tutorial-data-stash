@@ -1,0 +1,143 @@
+{
+  "id": 58928690,
+  "id_str": "58928690",
+  "name": "Rep. Adam Smith",
+  "screen_name": "RepAdamSmith",
+  "location": "Washington's 9th District",
+  "description": "Proudly serving Washington State's 9th District. Ranking Member of the House Armed Services Committee @HASCDemocrats",
+  "url": "http://t.co/bEAIcyoDki",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/bEAIcyoDki",
+          "expanded_url": "http://adamsmith.house.gov",
+          "display_url": "adamsmith.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 9925,
+  "friends_count": 1403,
+  "listed_count": 838,
+  "created_at": "Tue Jul 21 21:31:55 +0000 2009",
+  "favourites_count": 5,
+  "utc_offset": -18000,
+  "time_zone": "Quito",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 1674,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Jul 30 18:45:04 +0000 2015",
+    "id": 626825857466675201,
+    "id_str": "626825857466675201",
+    "text": "Happy 50th Birthday to Medicare and Medicaid who help millions of Americans get health care #KeepingUsHealthy http://t.co/1v7LXrX4GT",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "KeepingUsHealthy",
+          "indices": [
+            92,
+            109
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 626825856871178240,
+          "id_str": "626825856871178240",
+          "indices": [
+            110,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/CLLuy7bWIAAYjM5.png",
+          "media_url_https": "https://pbs.twimg.com/media/CLLuy7bWIAAYjM5.png",
+          "url": "http://t.co/1v7LXrX4GT",
+          "display_url": "pic.twitter.com/1v7LXrX4GT",
+          "expanded_url": "http://twitter.com/RepAdamSmith/status/626825857466675201/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 170,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 512,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 300,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1554717159/Adam_Official_Photo_small_2009_normal.JPG",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1554717159/Adam_Official_Photo_small_2009_normal.JPG",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/58928690/1328309192",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

@@ -1,0 +1,117 @@
+{
+  "id": 402719755,
+  "id_str": "402719755",
+  "name": "RepMarkAmodei",
+  "screen_name": "MarkAmodeiNV2",
+  "location": "Carson City, NV",
+  "description": "Proudly representing Nevada's 2nd District",
+  "url": "http://t.co/p2s4qS7trR",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/p2s4qS7trR",
+          "expanded_url": "http://amodei.house.gov",
+          "display_url": "amodei.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 5525,
+  "friends_count": 1783,
+  "listed_count": 361,
+  "created_at": "Tue Nov 01 13:43:55 +0000 2011",
+  "favourites_count": 12,
+  "utc_offset": -18000,
+  "time_zone": "Quito",
+  "geo_enabled": false,
+  "verified": true,
+  "statuses_count": 945,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 15:23:06 +0000 2015",
+    "id": 627137418932682752,
+    "id_str": "627137418932682752",
+    "text": "@goldbutte @RepHardy There's nothing diverse about this list. It's Clark County telling Nye and Lincoln what to do with their land.",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 627135665075982336,
+    "in_reply_to_status_id_str": "627135665075982336",
+    "in_reply_to_user_id": 109431205,
+    "in_reply_to_user_id_str": "109431205",
+    "in_reply_to_screen_name": "goldbutte",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "goldbutte",
+          "name": "Friendsof Gold Butte",
+          "id": 109431205,
+          "id_str": "109431205",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "screen_name": "RepHardy",
+          "name": "Rep. Cresent Hardy",
+          "id": 2964222544,
+          "id_str": "2964222544",
+          "indices": [
+            11,
+            20
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446321045625008129/KKw73uO7.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446321045625008129/KKw73uO7.jpeg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1617193547/Offical_Photo_twitter_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1617193547/Offical_Photo_twitter_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/402719755/1395328053",
+  "profile_link_color": "B30B1E",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

@@ -1,0 +1,220 @@
+{
+  "id": 252819323,
+  "id_str": "252819323",
+  "name": "Tom Reed",
+  "screen_name": "RepTomReed",
+  "location": "",
+  "description": "Tom Reed represents New York's 23rd Congressional District",
+  "url": "http://t.co/IqT9uqukZl",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/IqT9uqukZl",
+          "expanded_url": "http://Reed.house.gov",
+          "display_url": "Reed.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 6888,
+  "friends_count": 195,
+  "listed_count": 484,
+  "created_at": "Wed Feb 16 00:03:43 +0000 2011",
+  "favourites_count": 44,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 999,
+  "lang": "en",
+  "status": {
+    "created_at": "Wed Jul 29 18:28:52 +0000 2015",
+    "id": 626459392045674496,
+    "id_str": "626459392045674496",
+    "text": "RT @CornellinDC: @RepTomReed meets @Cornell in DC office summer intern @nate_jara https://t.co/Y3QDSX8Klj",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Wed Jul 29 15:18:29 +0000 2015",
+      "id": 626411480112582658,
+      "id_str": "626411480112582658",
+      "text": "@RepTomReed meets @Cornell in DC office summer intern @nate_jara https://t.co/Y3QDSX8Klj",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 252819323,
+      "in_reply_to_user_id_str": "252819323",
+      "in_reply_to_screen_name": "RepTomReed",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 4,
+      "favorite_count": 6,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "RepTomReed",
+            "name": "Tom Reed",
+            "id": 252819323,
+            "id_str": "252819323",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "Cornell",
+            "name": "Cornell University",
+            "id": 17369110,
+            "id_str": "17369110",
+            "indices": [
+              18,
+              26
+            ]
+          },
+          {
+            "screen_name": "Nate_Jara",
+            "name": "Nate Jara",
+            "id": 1067780420,
+            "id_str": "1067780420",
+            "indices": [
+              54,
+              64
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Y3QDSX8Klj",
+            "expanded_url": "https://twitter.com/Nate_Jara/status/626410755722772481",
+            "display_url": "twitter.com/Nate_Jara/stat…",
+            "indices": [
+              65,
+              88
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "CornellinDC",
+          "name": "Kathleen Corcoran",
+          "id": 384964905,
+          "id_str": "384964905",
+          "indices": [
+            3,
+            15
+          ]
+        },
+        {
+          "screen_name": "RepTomReed",
+          "name": "Tom Reed",
+          "id": 252819323,
+          "id_str": "252819323",
+          "indices": [
+            17,
+            28
+          ]
+        },
+        {
+          "screen_name": "Cornell",
+          "name": "Cornell University",
+          "id": 17369110,
+          "id_str": "17369110",
+          "indices": [
+            35,
+            43
+          ]
+        },
+        {
+          "screen_name": "Nate_Jara",
+          "name": "Nate Jara",
+          "id": 1067780420,
+          "id_str": "1067780420",
+          "indices": [
+            71,
+            81
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Y3QDSX8Klj",
+          "expanded_url": "https://twitter.com/Nate_Jara/status/626410755722772481",
+          "display_url": "twitter.com/Nate_Jara/stat…",
+          "indices": [
+            82,
+            105
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/3700040503/14142f0f278d7e69b19273996db4ac9e_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/3700040503/14142f0f278d7e69b19273996db4ac9e_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/252819323/1404269453",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "A0C5C7",
+  "profile_text_color": "333333",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

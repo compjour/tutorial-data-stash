@@ -1,0 +1,225 @@
+{
+  "id": 2964174789,
+  "id_str": "2964174789",
+  "name": "Senator Thom Tillis",
+  "screen_name": "SenThomTillis",
+  "location": "Washington, D.C. ",
+  "description": "Official Twitter account of North Carolina Senator Thom Tillis.",
+  "url": "http://t.co/mLVkKjLyOt",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/mLVkKjLyOt",
+          "expanded_url": "http://tillis.senate.gov",
+          "display_url": "tillis.senate.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 5553,
+  "friends_count": 1979,
+  "listed_count": 176,
+  "created_at": "Tue Jan 06 14:22:18 +0000 2015",
+  "favourites_count": 0,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 433,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 17:17:00 +0000 2015",
+    "id": 627166078825840640,
+    "id_str": "627166078825840640",
+    "text": "RT @ChuckGrassley: Pretty simple invention but very cheap and it works.   But u need big lawn to maneuver in http://t.co/whczT1SU2S",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jul 31 17:13:19 +0000 2015",
+      "id": 627165154325565440,
+      "id_str": "627165154325565440",
+      "text": "Pretty simple invention but very cheap and it works.   But u need big lawn to maneuver in http://t.co/whczT1SU2S",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 368,
+      "favorite_count": 332,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+
+        ],
+        "urls": [
+
+        ],
+        "media": [
+          {
+            "id": 627164915980042240,
+            "id_str": "627164915980042240",
+            "indices": [
+              90,
+              112
+            ],
+            "media_url": "http://pbs.twimg.com/media/CLQjKxCUAAA4PXa.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CLQjKxCUAAA4PXa.jpg",
+            "url": "http://t.co/whczT1SU2S",
+            "display_url": "pic.twitter.com/whczT1SU2S",
+            "expanded_url": "http://twitter.com/ChuckGrassley/status/627165154325565440/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 255,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 450,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 368,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ChuckGrassley",
+          "name": "ChuckGrassley",
+          "id": 10615232,
+          "id_str": "10615232",
+          "indices": [
+            3,
+            17
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 627164915980042240,
+          "id_str": "627164915980042240",
+          "indices": [
+            109,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/CLQjKxCUAAA4PXa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLQjKxCUAAA4PXa.jpg",
+          "url": "http://t.co/whczT1SU2S",
+          "display_url": "pic.twitter.com/whczT1SU2S",
+          "expanded_url": "http://twitter.com/ChuckGrassley/status/627165154325565440/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 627165154325565440,
+          "source_status_id_str": "627165154325565440",
+          "source_user_id": 10615232,
+          "source_user_id_str": "10615232"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/572430876579885056/cmQiFScl_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/572430876579885056/cmQiFScl_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964174789/1425313359",
+  "profile_link_color": "89C9FA",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

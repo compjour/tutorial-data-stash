@@ -1,0 +1,113 @@
+{
+  "id": 18632666,
+  "id_str": "18632666",
+  "name": "Jerry Moran",
+  "screen_name": "JerryMoran",
+  "location": "Kansas",
+  "description": "Proud to represent Kansans in the United States Senate",
+  "url": "http://t.co/CBA3beMHNs",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/CBA3beMHNs",
+          "expanded_url": "http://www.moran.senate.gov",
+          "display_url": "moran.senate.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 19307,
+  "friends_count": 3014,
+  "listed_count": 1295,
+  "created_at": "Mon Jan 05 14:25:22 +0000 2009",
+  "favourites_count": 184,
+  "utc_offset": -18000,
+  "time_zone": "Central Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 3135,
+  "lang": "en",
+  "status": {
+    "created_at": "Tue Jul 28 21:57:18 +0000 2015",
+    "id": 626149458070347776,
+    "id_str": "626149458070347776",
+    "text": "I am a cosponsor of legislation introduced by @RandPaul to #DefundPlannedParenthood. Our tax dollars should not fund such gruesome practices",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 16,
+    "favorite_count": 34,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "DefundPlannedParenthood",
+          "indices": [
+            59,
+            83
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "RandPaul",
+          "name": "Dr. Rand Paul",
+          "id": 216881337,
+          "id_str": "216881337",
+          "indices": [
+            46,
+            55
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "0F3254",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/461282822599098368/UYEy7ENK.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/461282822599098368/UYEy7ENK.jpeg",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/586302566138392576/MTb0-RE4_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/586302566138392576/MTb0-RE4_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/18632666/1398813264",
+  "profile_link_color": "0F3254",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "F2F2F2",
+  "profile_text_color": "545454",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

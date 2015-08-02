@@ -1,0 +1,120 @@
+{
+  "id": 242926427,
+  "id_str": "242926427",
+  "name": "JaimeHerreraBeutler",
+  "screen_name": "HerreraBeutler",
+  "location": "",
+  "description": "I'm proud to have grown up in SW WA, and honored to represent this wonderful region in the US Congress. Want regular email updates? http://t.co/sZutp93Fhg",
+  "url": "http://t.co/g23DlVNdtc",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/g23DlVNdtc",
+          "expanded_url": "http://JHB.house.gov",
+          "display_url": "JHB.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/sZutp93Fhg",
+          "expanded_url": "http://bit.ly/gcCz7h",
+          "display_url": "bit.ly/gcCz7h",
+          "indices": [
+            132,
+            154
+          ]
+        }
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 6772,
+  "friends_count": 1141,
+  "listed_count": 551,
+  "created_at": "Tue Jan 25 22:36:44 +0000 2011",
+  "favourites_count": 0,
+  "utc_offset": -25200,
+  "time_zone": "Pacific Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 293,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 21:26:37 +0000 2015",
+    "id": 627228897420148737,
+    "id_str": "627228897420148737",
+    "text": "Let’s help #smallbiz to keep their Association Health Plans. We must tackle the health care crisis w/better reforms. http://t.co/XsHiUJhesf",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "smallbiz",
+          "indices": [
+            11,
+            20
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/XsHiUJhesf",
+          "expanded_url": "http://herrerabeutler.house.gov/news/documentsingle.aspx?DocumentID=398576",
+          "display_url": "herrerabeutler.house.gov/news/documents…",
+          "indices": [
+            117,
+            139
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "D6083C",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/778641369/32fdbd80c31cfe58ca60b64e1fe29e3b.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/778641369/32fdbd80c31cfe58ca60b64e1fe29e3b.jpeg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/510487926900150272/UksS2ekj_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/510487926900150272/UksS2ekj_normal.jpeg",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

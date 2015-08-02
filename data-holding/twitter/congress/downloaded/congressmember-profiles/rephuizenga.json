@@ -1,0 +1,305 @@
+{
+  "id": 233949261,
+  "id_str": "233949261",
+  "name": "Rep. Bill Huizenga",
+  "screen_name": "RepHuizenga",
+  "location": "2nd District, MI",
+  "description": "I serve the people of the 2nd District of Michigan. Member of Financial Services Committee. Father of 5. Visit http://t.co/Rj7T6mD76d for even more!",
+  "url": "http://t.co/F9UwL81Pr9",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/F9UwL81Pr9",
+          "expanded_url": "http://huizenga.house.gov/contact",
+          "display_url": "huizenga.house.gov/contact",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "http://t.co/Rj7T6mD76d",
+          "expanded_url": "http://facebook.com/rephuizenga",
+          "display_url": "facebook.com/rephuizenga",
+          "indices": [
+            111,
+            133
+          ]
+        }
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 9137,
+  "friends_count": 3849,
+  "listed_count": 586,
+  "created_at": "Tue Jan 04 14:01:28 +0000 2011",
+  "favourites_count": 3,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 4812,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 14:06:53 +0000 2015",
+    "id": 627118235406737409,
+    "id_str": "627118235406737409",
+    "text": "RT @Tomhillen: Star studded stage with @PropertyBrother @MrSilverScott @MrDrewScott @briancalley and @RepHuizenga for the @TangerOutlets op…",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jul 31 14:02:54 +0000 2015",
+      "id": 627117233827876864,
+      "id_str": "627117233827876864",
+      "text": "Star studded stage with @PropertyBrother @MrSilverScott @MrDrewScott @briancalley and @RepHuizenga for the @TangerOutlets opening.",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "67d92742f1ebf307",
+        "url": "https://api.twitter.com/1.1/geo/id/67d92742f1ebf307.json",
+        "place_type": "admin",
+        "name": "Michigan",
+        "full_name": "Michigan, USA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [
+
+        ],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -90.418136,
+                41.696088
+              ],
+              [
+                -82.122971,
+                41.696088
+              ],
+              [
+                -82.122971,
+                48.306272
+              ],
+              [
+                -90.418136,
+                48.306272
+              ]
+            ]
+          ]
+        },
+        "attributes": {
+        }
+      },
+      "contributors": null,
+      "retweet_count": 3,
+      "favorite_count": 4,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "PropertyBrother",
+            "name": "Property Brothers",
+            "id": 155997273,
+            "id_str": "155997273",
+            "indices": [
+              24,
+              40
+            ]
+          },
+          {
+            "screen_name": "MrSilverScott",
+            "name": "Jonathan Scott",
+            "id": 235157481,
+            "id_str": "235157481",
+            "indices": [
+              41,
+              55
+            ]
+          },
+          {
+            "screen_name": "MrDrewScott",
+            "name": "Drew Scott",
+            "id": 86972419,
+            "id_str": "86972419",
+            "indices": [
+              56,
+              68
+            ]
+          },
+          {
+            "screen_name": "briancalley",
+            "name": "Lt Gov Brian Calley",
+            "id": 18299237,
+            "id_str": "18299237",
+            "indices": [
+              69,
+              81
+            ]
+          },
+          {
+            "screen_name": "RepHuizenga",
+            "name": "Rep. Bill Huizenga",
+            "id": 233949261,
+            "id_str": "233949261",
+            "indices": [
+              86,
+              98
+            ]
+          },
+          {
+            "screen_name": "TangerOutlets",
+            "name": "Tanger Outlets",
+            "id": 29980128,
+            "id_str": "29980128",
+            "indices": [
+              107,
+              121
+            ]
+          }
+        ],
+        "urls": [
+
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "Tomhillen",
+          "name": "Tom Hillen",
+          "id": 305381599,
+          "id_str": "305381599",
+          "indices": [
+            3,
+            13
+          ]
+        },
+        {
+          "screen_name": "PropertyBrother",
+          "name": "Property Brothers",
+          "id": 155997273,
+          "id_str": "155997273",
+          "indices": [
+            39,
+            55
+          ]
+        },
+        {
+          "screen_name": "MrSilverScott",
+          "name": "Jonathan Scott",
+          "id": 235157481,
+          "id_str": "235157481",
+          "indices": [
+            56,
+            70
+          ]
+        },
+        {
+          "screen_name": "MrDrewScott",
+          "name": "Drew Scott",
+          "id": 86972419,
+          "id_str": "86972419",
+          "indices": [
+            71,
+            83
+          ]
+        },
+        {
+          "screen_name": "briancalley",
+          "name": "Lt Gov Brian Calley",
+          "id": 18299237,
+          "id_str": "18299237",
+          "indices": [
+            84,
+            96
+          ]
+        },
+        {
+          "screen_name": "RepHuizenga",
+          "name": "Rep. Bill Huizenga",
+          "id": 233949261,
+          "id_str": "233949261",
+          "indices": [
+            101,
+            113
+          ]
+        },
+        {
+          "screen_name": "TangerOutlets",
+          "name": "Tanger Outlets",
+          "id": 29980128,
+          "id_str": "29980128",
+          "indices": [
+            122,
+            136
+          ]
+        }
+      ],
+      "urls": [
+
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/281082821/BH_Twitter_Background2.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/281082821/BH_Twitter_Background2.jpg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/443039780276682753/UYej9mz0_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/443039780276682753/UYej9mz0_normal.jpeg",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

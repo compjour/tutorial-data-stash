@@ -1,0 +1,99 @@
+{
+  "id": 2750127259,
+  "id_str": "2750127259",
+  "name": "Lee Zeldin",
+  "screen_name": "RepLeeZeldin",
+  "location": "",
+  "description": "Official Twitter of U.S. Congressman Lee Zeldin of New York's 1st Congressional District.",
+  "url": null,
+  "entities": {
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 1221,
+  "friends_count": 288,
+  "listed_count": 73,
+  "created_at": "Wed Aug 20 19:25:47 +0000 2014",
+  "favourites_count": 10,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 162,
+  "lang": "en",
+  "status": {
+    "created_at": "Wed Jul 29 22:25:26 +0000 2015",
+    "id": 626518926864838656,
+    "id_str": "626518926864838656",
+    "text": "Voted for #VAacountability today https://t.co/PusI25D9WY",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "VAacountability",
+          "indices": [
+            10,
+            26
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PusI25D9WY",
+          "expanded_url": "https://zeldin.house.gov/media-center/press-releases/rep-zeldin-votes-va-accountability",
+          "display_url": "zeldin.house.gov/media-center/p…",
+          "indices": [
+            33,
+            56
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "C0DEED",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/585164854526406657/jsf3wMaO_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/585164854526406657/jsf3wMaO_normal.jpg",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": true,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

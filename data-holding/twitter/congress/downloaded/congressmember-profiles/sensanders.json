@@ -1,0 +1,107 @@
+{
+  "id": 29442313,
+  "id_str": "29442313",
+  "name": "Bernie Sanders",
+  "screen_name": "SenSanders",
+  "location": "Vermont/DC",
+  "description": "Sen. Bernie Sanders is the longest serving independent in congressional history. Tweets ending in -B are from Bernie, and all others are from a staffer.",
+  "url": "http://t.co/8AS4FI1oge",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/8AS4FI1oge",
+          "expanded_url": "http://www.sanders.senate.gov/",
+          "display_url": "sanders.senate.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 489339,
+  "friends_count": 1896,
+  "listed_count": 9414,
+  "created_at": "Tue Apr 07 13:02:35 +0000 2009",
+  "favourites_count": 7,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 12184,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 21:43:23 +0000 2015",
+    "id": 627233119498801153,
+    "id_str": "627233119498801153",
+    "text": "The Week in Review: Sen. Sanders calls for Medicare-for-all &amp; rebukes Republican efforts to defund Planned Parenthood http://t.co/St4V8YYUCM",
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 150,
+    "favorite_count": 209,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/St4V8YYUCM",
+          "expanded_url": "http://1.usa.gov/1DWOabQ",
+          "display_url": "1.usa.gov/1DWOabQ",
+          "indices": [
+            122,
+            144
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/514189149444661248/pkGHMpZZ.jpeg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/514189149444661248/pkGHMpZZ.jpeg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/621424033700052992/qNHXgcpM_normal.png",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/621424033700052992/qNHXgcpM_normal.png",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/29442313/1430854323",
+  "profile_link_color": "44506A",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "D6CCB6",
+  "profile_text_color": "304562",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

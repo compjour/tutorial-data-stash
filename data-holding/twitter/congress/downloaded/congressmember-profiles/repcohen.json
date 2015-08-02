@@ -1,0 +1,260 @@
+{
+  "id": 162069635,
+  "id_str": "162069635",
+  "name": "Steve Cohen",
+  "screen_name": "RepCohen",
+  "location": "Memphis, TN and Washington, DC",
+  "description": "Congress TN-9 Memphis. Committees: Judiciary&Transport; Supporter of civil rights/liberties/women&minority issues/animal welfare. Father of TN Educ Lottery: Dem",
+  "url": "http://t.co/uhNtROa3Ll",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/uhNtROa3Ll",
+          "expanded_url": "http://cohen.house.gov",
+          "display_url": "cohen.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 13017,
+  "friends_count": 431,
+  "listed_count": 760,
+  "created_at": "Fri Jul 02 15:10:21 +0000 2010",
+  "favourites_count": 1131,
+  "utc_offset": -18000,
+  "time_zone": "Central Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 3755,
+  "lang": "en",
+  "status": {
+    "created_at": "Fri Jul 31 23:01:05 +0000 2015",
+    "id": 627252673163698176,
+    "id_str": "627252673163698176",
+    "text": "RT @politico: .@RepCohen: “The DEA is no longer sacrosanct” http://t.co/djAh2tmqKb http://t.co/JOI6TIGOSR",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jul 31 21:28:03 +0000 2015",
+      "id": 627229258327420928,
+      "id_str": "627229258327420928",
+      "text": ".@RepCohen: “The DEA is no longer sacrosanct” http://t.co/djAh2tmqKb http://t.co/JOI6TIGOSR",
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 29,
+      "favorite_count": 20,
+      "entities": {
+        "hashtags": [
+
+        ],
+        "symbols": [
+
+        ],
+        "user_mentions": [
+          {
+            "screen_name": "RepCohen",
+            "name": "Steve Cohen",
+            "id": 162069635,
+            "id_str": "162069635",
+            "indices": [
+              1,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/djAh2tmqKb",
+            "expanded_url": "http://politi.co/1DWBvFz",
+            "display_url": "politi.co/1DWBvFz",
+            "indices": [
+              46,
+              68
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 627229257719222272,
+            "id_str": "627229257719222272",
+            "indices": [
+              69,
+              91
+            ],
+            "media_url": "http://pbs.twimg.com/media/CLRdr8sWEAAA6Qj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CLRdr8sWEAAA6Qj.jpg",
+            "url": "http://t.co/JOI6TIGOSR",
+            "display_url": "pic.twitter.com/JOI6TIGOSR",
+            "expanded_url": "http://twitter.com/politico/status/627229258327420928/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 325,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 555,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 184,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 29,
+    "favorite_count": 0,
+    "entities": {
+      "hashtags": [
+
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "politico",
+          "name": "POLITICO",
+          "id": 9300262,
+          "id_str": "9300262",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "RepCohen",
+          "name": "Steve Cohen",
+          "id": 162069635,
+          "id_str": "162069635",
+          "indices": [
+            15,
+            24
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/djAh2tmqKb",
+          "expanded_url": "http://politi.co/1DWBvFz",
+          "display_url": "politi.co/1DWBvFz",
+          "indices": [
+            60,
+            82
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 627229257719222272,
+          "id_str": "627229257719222272",
+          "indices": [
+            83,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/CLRdr8sWEAAA6Qj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLRdr8sWEAAA6Qj.jpg",
+          "url": "http://t.co/JOI6TIGOSR",
+          "display_url": "pic.twitter.com/JOI6TIGOSR",
+          "expanded_url": "http://twitter.com/politico/status/627229258327420928/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 325,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 555,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 184,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 627229258327420928,
+          "source_status_id_str": "627229258327420928",
+          "source_user_id": 9300262,
+          "source_user_id_str": "9300262"
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "002436",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/124707257/backgroundtwitter2.jpg",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/124707257/backgroundtwitter2.jpg",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/2868005705/2ad4089661866edbab4f8097df4a2b8b_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/2868005705/2ad4089661866edbab4f8097df4a2b8b_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/162069635/1398283798",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "C0DEED",
+  "profile_sidebar_fill_color": "DDEEF6",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}

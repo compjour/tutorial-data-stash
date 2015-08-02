@@ -1,0 +1,198 @@
+{
+  "id": 2964287128,
+  "id_str": "2964287128",
+  "name": "Rick W. Allen",
+  "screen_name": "RepRickAllen",
+  "location": "Augusta, GA and Washington, DC",
+  "description": "Proudly representing Georgia's 12th Congressional District",
+  "url": "http://t.co/RseyZoCFIB",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "http://t.co/RseyZoCFIB",
+          "expanded_url": "http://allen.house.gov",
+          "display_url": "allen.house.gov",
+          "indices": [
+            0,
+            22
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 1005,
+  "friends_count": 70,
+  "listed_count": 72,
+  "created_at": "Tue Jan 06 14:45:18 +0000 2015",
+  "favourites_count": 4,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": true,
+  "verified": true,
+  "statuses_count": 197,
+  "lang": "en",
+  "status": {
+    "created_at": "Thu Jul 30 22:05:36 +0000 2015",
+    "id": 626876320811773952,
+    "id_str": "626876320811773952",
+    "text": "Stopped by Central Ave @DairyQueen in Augusta for #MiracleTreatDay. $1 of blizzards go to @CMNHospitals. Great cause! http://t.co/diwG4LPwy1",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "00c6c3cd3e783197",
+      "url": "https://api.twitter.com/1.1/geo/id/00c6c3cd3e783197.json",
+      "place_type": "city",
+      "name": "Augusta",
+      "full_name": "Augusta, GA",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [
+
+      ],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.21201,
+              33.338854
+            ],
+            [
+              -81.9143598,
+              33.338854
+            ],
+            [
+              -81.9143598,
+              33.542581
+            ],
+            [
+              -82.21201,
+              33.542581
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+      }
+    },
+    "contributors": null,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "MiracleTreatDay",
+          "indices": [
+            50,
+            66
+          ]
+        }
+      ],
+      "symbols": [
+
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "DairyQueen",
+          "name": "Dairy Queen",
+          "id": 21659166,
+          "id_str": "21659166",
+          "indices": [
+            23,
+            34
+          ]
+        },
+        {
+          "screen_name": "CMNHospitals",
+          "name": "CMN Hospitals",
+          "id": 38706540,
+          "id_str": "38706540",
+          "indices": [
+            90,
+            103
+          ]
+        }
+      ],
+      "urls": [
+
+      ],
+      "media": [
+        {
+          "id": 626876315958906880,
+          "id_str": "626876315958906880",
+          "indices": [
+            118,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CLMcsCLWEAAqUha.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CLMcsCLWEAAqUha.jpg",
+          "url": "http://t.co/diwG4LPwy1",
+          "display_url": "pic.twitter.com/diwG4LPwy1",
+          "expanded_url": "http://twitter.com/RepRickAllen/status/626876320811773952/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/552476601510682624/vklJRMrV_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/552476601510682624/vklJRMrV_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/2964287128/1421699681",
+  "profile_link_color": "0084B4",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false
+}
