@@ -2,7 +2,7 @@
 # https://www.govtrack.us/developers/data
 # run this from root of project, e.g.
 # bash scripts/congress_votes/get_votes.sh
-wkdir=./datahaus/congress/votes/downloaded/govtrack
+wkdir=./data-holding/congress/votes/downloaded/govtrack
 mkdir -p $wkdir
 rsync -avz --delete --delete-excluded --exclude **/text-versions/ \
     govtrack.us::govtrackdata/congress/114/votes/ $wkdir
