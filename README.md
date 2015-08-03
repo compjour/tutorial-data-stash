@@ -22,3 +22,12 @@ The [scripts](scripts/) directory contains the (mostly Python 3) scripts for fet
 - [San Francisco restaurant inspections](https://extxfer.sfdph.org/food/)
 - [Social Security Administration baby names](http://www.ssa.gov/oact/babynames/limits.html), nationwide and per-state.
 - The metadata for [The Museum of Modern Art collection](https://github.com/MuseumofModernArt/collection)
+- U.S. House member and staff expenditures, [as collected and cleaned by the Sunlight Foundation](https://sunlightfoundation.com/tools/expenditures/)
+- [UK Baby names](http://www.ons.gov.uk/ons/rel/vsob1/baby-names--england-and-wales/index.html)
+
+Todo:
+
+- [Iowa State Salaries](https://data.iowa.gov/Government/State-of-Iowa-Salary-Book/s3p7-wy6w)
+- [Florida State Salaries](http://dmssalaries.herokuapp.com/salaries)
+- Death row data from TX, FL, CA
+- Stop and frisk, 2012,2013,2014
