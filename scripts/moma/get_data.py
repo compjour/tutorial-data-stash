@@ -1,25 +1,25 @@
 """
-python -m scripts.nyc_restaurants.get_data
+python -m scripts.moma.get_data
 
-data comes from:
-https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j
+Data comes from The Museum of Modern Art
+https://github.com/MuseumofModernArt/collection
 
-Original file is split into by-month/year (of inspection date) files for easier version control
-
+Original CSV is split into year files based on acquisition date (`DateAcquired`)
+    files for easier version control
 """
 import requests
 import csv
 import os.path
 from itertools import groupby
 from collections import defaultdict
-from scripts.nyc_restaurants.settings import DOWNLOADED_DATA_DIR, SOURCE_DATA_URL
-from scripts.nyc_restaurants.settings import setup_space
+from scripts.moma.settings import DOWNLOADED_DATA_DIR, SOURCE_DATA_URL
+from scripts.moma.settings import setup_space
 
 
-def foo_date(row):
-    """ return 2015-09 from INSPECTION DATE value of '09/25/2015' """
-    mth, day, yr = row['INSPECTION DATE'].split('/')
-    return "%s-%s" % (yr, mth)
+def fookey(row):
+    """ return 1994 from `DateAcquired` value of '1995-01-17' """
+    yr = row['DateAcquired'].split('-')[0]
+    return yr if yr else "None"
 
 if __name__ == '__main__':
     setup_space()
@@ -29,7 +29,7 @@ if __name__ == '__main__':
     lines = resp.text.splitlines()
     headers = lines[0].split(',')
     dategroups = defaultdict(list)
-    for dt, rows in groupby(csv.DictReader(lines), key = foo_date):
+    for dt, rows in groupby(csv.DictReader(lines), key = fookey):
         dategroups[dt].extend(list(rows))
 
     for dt, rows in dategroups.items():

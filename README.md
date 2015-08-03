@@ -21,3 +21,4 @@ The [scripts](scripts/) directory contains the (mostly Python 3) scripts for fet
 - [New York restaurant inspections data](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j), which is a flat table containing all restaurants, inspections, violations, and violation codes.
 - [San Francisco restaurant inspections](https://extxfer.sfdph.org/food/)
 - [Social Security Administration baby names](http://www.ssa.gov/oact/babynames/limits.html), nationwide and per-state.
+- The metadata for [The Museum of Modern Art collection](https://github.com/MuseumofModernArt/collection)
