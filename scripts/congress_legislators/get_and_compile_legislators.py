@@ -3,9 +3,9 @@
 # python3 scripts/congress_legislators/get_and_compile_legislators.py
 """
 Produces
-- ./data-holding/congress/legislators/compiled/legislators.csv
-- ./data-holding/congress/legislators/compiled/terms.csv
-- ./data-holding/congress/legislators/compiled/social-media-accounts.csv
+- ./data-holding/congress_legislators/compiled/legislators.csv
+- ./data-holding/congress_legislators/compiled/terms.csv
+- ./data-holding/congress_legislators/compiled/social-media-accounts.csv
 
 """
 import csv
@@ -14,7 +14,7 @@ from os import makedirs
 from collections import OrderedDict
 import os.path
 import yaml
-DATA_DIR = "./data-holding/congress/legislators"
+DATA_DIR = "./data-holding/congress_legislators"
 DATA_DOWNLOADS_DIR = os.path.join(DATA_DIR, 'downloaded')
 DATA_COMPILED_DIR = os.path.join(DATA_DIR, 'compiled')
 CONGRESS_CURRENT_INFO_PATH = os.path.join(DATA_DOWNLOADS_DIR, 'unitedstates-congress_legislators-current.yaml')
@@ -96,7 +96,7 @@ def extract_legislator(obj):
     # add simplified term information
     current_term = max(obj['terms'], key = lambda t: t['start'])
     h['party']               = current_term.get('party')
-    h['current_role']        = current_term.get('type')
+    h['role']        = current_term.get('type')
     h['state']               = current_term.get('state')
     h['district']            = current_term.get('district')
     h['senate_class']        = current_term.get('class')

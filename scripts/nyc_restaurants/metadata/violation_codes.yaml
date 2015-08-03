@@ -1,0 +1,14 @@
+name: nyc_doh_violation_codes
+source:
+  homepage: https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j
+db:
+  primary_key: "VIOLATION CODE"
+columns:
+  "VIOLATION CODE":
+    type: String
+    index: true
+    length: 6
+    nullable: false
+  "VIOLATION DESCRIPTION":
+    type: Text
+    nullable: false

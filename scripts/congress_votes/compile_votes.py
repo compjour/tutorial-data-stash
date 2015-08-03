@@ -11,8 +11,8 @@ import csv
 import json
 import os.path
 
-DATA_DIR = "./data-holding/congress/votes/downloaded/govtrack/2015"
-OUTPUT_DIR = './data-holding/congress/votes/compiled'
+DATA_DIR = "./data-holding/congress_votes/downloaded/govtrack/2015"
+OUTPUT_DIR = './data-holding/congress_votes/compiled'
 OUTPUT_ROLL_CALL_VOTES_PATH = os.path.join(OUTPUT_DIR, 'roll-call-votes.csv')
 OUTPUT_MEMBER_VOTES_PATH = os.path.join(OUTPUT_DIR, 'member-votes.csv')
 

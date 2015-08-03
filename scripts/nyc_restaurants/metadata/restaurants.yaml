@@ -1,0 +1,36 @@
+name: nyc_doh_restaurants
+source:
+  homepage: https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j
+db:
+  primary_key: "CAMIS"
+columns:
+  "CAMIS":
+    type: String
+    length: 8
+    index: true
+    nullable: false
+  "DBA":
+    type: String
+    index: true
+    nullable: false
+  "BORO":
+    type: String
+    length: 20
+    index: true
+  "BUILDING":
+    type: String
+  "STREET":
+    type: String
+  "ZIPCODE":
+    type: String
+    index: true
+    length: 15
+  "PHONE":
+    type: String
+    index: true
+    length: 15
+  "CUISINE DESCRIPTION":
+    type: String
+    index: true
+
+

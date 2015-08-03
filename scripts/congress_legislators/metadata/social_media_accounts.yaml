@@ -1,0 +1,42 @@
+name: social_media_accounts
+source:
+  homepage: https://github.com/congress-legislators
+  direct_url: https://raw.githubusercontent.com/dannguyen/congress-legislators/master/legislators-social-media.yaml
+db:
+  primary_key: bioguide_id
+
+columns:
+  bioguide_id:
+    type: String
+    length: 7
+    nullable: false
+    index: true
+    examples:
+      - "B000944"
+
+  twitter_id:
+    type: Integer
+    length: 64
+    unsigned: true
+  twitter_username:
+    type: String
+    length: 15
+  facebook_id:
+    type: Integer
+    length: 64
+    unsigned: true
+  facebook_username:
+    type: String
+    length: 50
+  instagram_id:
+    type: Integer
+    length: 64
+    unsigned: true
+  instagram_username:
+    type: String
+    length: 30
+  youtube_id:
+    type: String
+  youtube_username:
+    type: String
+

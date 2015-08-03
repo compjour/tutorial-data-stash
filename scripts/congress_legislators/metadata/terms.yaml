@@ -1,0 +1,69 @@
+name: terms
+
+source:
+  homepage: https://github.com/congress-legislators
+  direct_url: https://github.com/dannguyen/congress-legislators/raw/master/legislators-current.yaml
+db:
+  primary_key:
+    - bioguide_id
+    - start
+
+columns:
+  bioguide_id:
+    type: String
+    length: 7
+    nullable: false
+    index: true
+    examples:
+      - "B000944"
+  role:
+    type: String
+    length: 3
+    enumerables:
+      - rep
+      - sen
+  start:
+    type: Date
+    date_format: "%Y-%m-%d"
+  end:
+    type: Date
+    date_format: "%Y-%m-%d"
+    nullable: true
+  party:
+    type: String
+    length: 40
+    examples:
+      - "Republican"
+      - "Independent"
+
+  district:
+    type: String
+    length: 3
+    nullable: true
+    examples:
+      - 0
+      - 5
+      - 12
+  senator_class:
+    type: String
+    length: 1
+    nullable: true
+    enumerables:
+      - 1
+      - 2
+      - 3
+  state:
+    type: String
+    length: 2
+    nullable: false
+    examples:
+      - NY
+      - AK
+
+  state_rank:
+    type: String
+    length: 1
+    nullable: true
+    enumerables:
+      - "junior"
+      - "senior"

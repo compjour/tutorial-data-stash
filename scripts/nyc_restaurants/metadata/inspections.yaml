@@ -1,0 +1,38 @@
+name: nyc_doh_inspections
+source:
+  homepage: https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j
+db:
+  primary_key:
+    - "CAMIS"
+    - "INSPECTION DATE"
+    - "INSPECTION TYPE"
+columns:
+  "CAMIS":
+    type: String
+    length: 8
+    index: true
+    nullable: false
+  "INSPECTION DATE":
+    type: date
+    date_format: "%m/%d/%Y"
+    nullable: false
+  "ACTION":
+    type: String
+  "SCORE":
+    type: Integer
+    nullable: true
+    index: true
+  "GRADE":
+    type: String
+    length: 3
+    nullable: true
+    index: true
+  "GRADE DATE":
+    type: Date
+    date_format: "%m/%d/%Y"
+    nullable: true
+    index: true
+  "INSPECTION TYPE":
+    type: String
+    index: true
+

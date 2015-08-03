@@ -1,0 +1,39 @@
+name: ssa_baby_names_states
+
+source:
+  homepage: http://www.ssa.gov/oact/babynames/limits.html
+  direct_url: http://www.ssa.gov/oact/babynames/state/namesbystate.zip
+
+db:
+  primary_key:
+    - name
+    - state
+    - sex
+    - year
+
+columns:
+  name:
+    type: String
+    length: 30
+    nullable: false
+    index: true
+  state:
+    type: String
+    length: 2
+    nullable: false
+    index: true
+  sex:
+    type: String
+    length: 1
+    nullable: false
+  year:
+    type: Integer
+    length: 4
+    unsigned: true
+    nullable: false
+    index: true
+  count:
+    type: Integer
+    length: 6
+    unsigned: true
+    nullable: false

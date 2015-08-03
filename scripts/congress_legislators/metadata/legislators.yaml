@@ -1,0 +1,169 @@
+name: legislators
+source:
+  homepage: https://github.com/congress-legislators
+  direct_url: https://github.com/dannguyen/congress-legislators/raw/master/legislators-current.yaml
+db:
+  primary_key: bioguide_id
+
+columns:
+  bioguide_id:
+    type: String
+    length: 7
+    nullable: false
+    index: true
+    examples:
+      - "B000944"
+  senate_lis_id:
+    type: String
+    length: 4
+    nullable: true
+    index: true
+    examples:
+      - "S307"
+  first_name:
+    type: String
+  middle_name:
+    type: String
+  last_name:
+    type: String
+  suffix_name:
+    type: String
+  nickname:
+    type: String
+  gender:
+    type: String
+    length: 1
+    examples:
+      - "F"
+  birthday:
+    type: Date
+    date_format: '%Y-%m-%d'
+  thomas_id:
+    type: String
+  govtrack_id:
+    type: String
+  opensecrets_id:
+    type: String
+
+
+
+  start:
+    type: Date
+    date_format: "%Y-%m-%d"
+  end:
+    type: Date
+    date_format: "%Y-%m-%d"
+    nullable: true
+  party:
+    type: String
+    length: 40
+    examples:
+      - "Republican"
+      - "Independent"
+
+  district:
+    type: String
+    length: 3
+    nullable: true
+    examples:
+      - 0
+      - 5
+      - 12
+  senator_class:
+    type: String
+    length: 1
+    nullable: true
+    enumerables:
+      - 1
+      - 2
+      - 3
+  state:
+    type: String
+    length: 2
+    nullable: false
+    examples:
+      - NY
+      - AK
+
+  state_rank:
+    type: String
+    length: 1
+    nullable: true
+    enumerables:
+      - "junior"
+      - "senior"
+
+  ## derived from most recent term
+  role:
+    type: String
+    length: 3
+    enumerables:
+      - rep
+      - sen
+  current_term_start:
+    type: Date
+    date_format: "%Y-%m-%d"
+  current_term_end:
+    type: Date
+    date_format: "%Y-%m-%d"
+    nullable: true
+  party:
+    type: String
+    length: 40
+    examples:
+      - "Republican"
+      - "Independent"
+  district:
+    type: String
+    length: 3
+    nullable: true
+    examples:
+      - 0
+      - 5
+      - 12
+  senator_class:
+    type: String
+    length: 1
+    nullable: true
+    enumerables:
+      - 1
+      - 2
+      - 3
+  state:
+    type: String
+    length: 2
+    nullable: false
+    examples:
+      - NY
+      - AK
+
+  state_rank:
+    type: String
+    length: 1
+    nullable: true
+    enumerables:
+      - "junior"
+      - "senior"
+
+## Other things derived from terms
+  url:
+    type: String
+    subtype: URL
+
+  address:
+    type: String
+  phone:
+    type: String
+    length: 15
+  fax:
+    type: String
+    length: 15
+  contact_form:
+    type: String
+    subtype: URL
+  rss_url:
+    type: String
+    subtype: URL
+
+
+
