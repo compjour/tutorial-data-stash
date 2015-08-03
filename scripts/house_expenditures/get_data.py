@@ -1,21 +1,22 @@
 """
 python -m scripts.house_expenditures.get_data
 
-data comes from Socrata:
+data comes cleaned from Sunlight Foundation:
 https://sunlightfoundation.com/tools/expenditures/
 
-Original file are split into YYYY-MM.csv (from `QUARTER` and `DATE`)
-    CSV files for easier version control
+Original file are split into YYYY-MM.csv (from `QUARTER` and `DATE`) and written
+    into a subdirectory for reach file
 
-creates a file for every year-month as well as YYYY- for entries that don't have a month
-in the date.
+    Creates a file for every year-month as well as YYYY- for entries that don't have a month
+    in the date.
 
-Note: This script is all-or-nothing...i.e. it downloads 20+ 20MB CSVs, reads them into memory,
- and *then* splits them up. TODO: Make it less monolithic.
+Note: This script is all-or-nothing... TODO: Make it less monolithic.
 """
 
 import requests
 import csv
+from os import makedirs
+from time import sleep
 import os.path
 import re # who needs HTML parsing?
 from itertools import groupby
@@ -44,33 +45,31 @@ if __name__ == '__main__':
     # data URLs look like:
     # http://assets.sunlightfoundation.com.s3.amazonaws.com/expenditures/house/2014Q1-detail.csv
     html = requests.get(LANDING_PAGE_URL).text
-    urls = list(set(re.findall(r'http://assets.+?-detail\.csv', html)))
+    urls = sorted(list(set(re.findall(r'http://assets.+?-detail\.csv', html))))
     print(len(urls), 'CSVs found')
-    # oh what the hell, let's just throw everything into memory, it's only
-    # a few hundred megs of text
-    all_lines = []
-    headers = None # this gets filled in the loop, ungracefully
+
     for url in urls:
         print("Downloading:", url)
         resp = requests.get(url)
         lines = resp.text.splitlines()
-        if not headers:
-            # set headers and add it to the collection
-            headers = lines[0].split(',')
-            all_lines.append(lines[0])
-        all_lines.extend(lines[1:])
+        headers = lines[0].split(',')
 
-    print("Grouping data...")
-    dategroups = defaultdict(list)
-    c = csv.DictReader(all_lines)
-    for dt, rows in groupby(c, key = foo_key):
-        dategroups[dt].extend(list(rows))
+        print("Grouping data...")
+        dategroups = defaultdict(list)
+        c = csv.DictReader(lines)
+        for dt, rows in groupby(c, key = foo_key):
+            dategroups[dt].extend(list(rows))
 
-    # write files
-    for dt, rows in dategroups.items():
-        fname = os.path.join(DOWNLOADED_DATA_DIR, dt + '.csv')
-        print("Writing:", fname)
-        with open(fname, "w") as f:
-            c = csv.DictWriter(f, fieldnames = headers)
-            c.writeheader()
-            c.writerows(rows)
+        # write files
+        for dt, rows in dategroups.items():
+            slug = os.path.basename(url).split('-')[0] # e.g. 2014Q1
+            subdir = os.path.join(DOWNLOADED_DATA_DIR, slug)
+            makedirs(subdir, exist_ok = True)
+            fname = os.path.join(subdir, dt + '.csv')
+            print("Writing:", fname)
+            with open(fname, "w") as f:
+                c = csv.DictWriter(f, fieldnames = headers)
+                c.writeheader()
+                c.writerows(rows)
+        print("Sleeping before next fetch...")
+        sleep(10)
